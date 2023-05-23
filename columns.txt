@@ -1,0 +1,16 @@
+origin_id
+, title
+, description
+, price
+, price_display
+, lat
+, lng
+, country
+, state
+, city
+, district
+, property_details
+, image
+, contact_fullname
+, contact_phone_number
+, status
