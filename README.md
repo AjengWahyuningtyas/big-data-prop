@@ -15,6 +15,8 @@ Dataset disimpan dalam bentuk json yang dapat diakses pada [url](https://github.
 Untuk mencoba program ini dapat digunakan
 
 ```bash
+git clone https://github.com/AjengWahyuningtyas/big-data-prop.git big-data-prop
+cd big-data-prop
 pip install -r requirements.txt
 ```
 
