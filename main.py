@@ -1,30 +1,14 @@
-# import file from folder src
-from src.func import convert_json_to_df, label_data, add_label
+# Mengambil fungsi dari src/func.py
+from src.func import convert_json_to_dataframe, label_data, open_json, preprocess, train_data
 
-data = 'dataset/json/propertydata.json'
-df = convert_json_to_df(data)
-label_data(df)
-
-# Separate features and target variable
-# X = df.drop('label', axis=1)  # Features
-# y = df['label']  # Target variable
-
-# # Split the dataset into training and testing sets
-# X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-# # Instantiate and train the Naive Bayes classifier
-# clf = GaussianNB()
-# clf.fit(X_train, y_train)
-
-# # Label the example data
-# example_data = df.head()
-
-# # Preprocess the example data to match the format of the training data
-# # Extract relevant features and transform them as needed
-
-# # Predict the label for the example data
-# example_features = preprocess_example_data(example_data)  # Custom function to preprocess example data
-# predicted_label = clf.predict([example_features])
-
-# print("Predicted label:", predicted_label) 
-
+if __name__ == '__main__':
+	input_data = open_json('dataset/json/propertydata.json')
+	output_data = 'dataset/json/labeled_data.json'
+	# Melakukan labeling data
+	label_data(input_data, output_data)
+	# Mengubah data json menjadi dataframe
+	df = convert_json_to_dataframe(output_data)
+	# Melakan preprocessing
+	X_train, X_test, y_train, y_test = preprocess(df)
+	# Melakukan training data
+	train_data(X_train, X_test, y_train, y_test)
