@@ -1,0 +1,410 @@
+[
+  {
+    "origin_id": 875845031,
+    "title": "KOST 650ribu (Gratis Listrik, Air) Kampus Mahendradata SMK Bali Dewata",
+    "description": "Kos Baru \nRp 650.000 per bulan\nSudah gratis  Listrik dan Air. Sampah dan banjar bayar sendiri \nKamar Mandi dalam, toilet duduk dan shower\nDapur dalam\nKamar luas 3x5\nFast Respon hubungi No Telp\nDekat Kampus Mahendradata\nDekat sekolah SMK Bali Dewata\nDekat Ubung\nDekat ke Gatot Subroto",
+    "price": 650000,
+    "price_display": "Rp 650.000",
+    "lat": -8.625,
+    "lng": 115.206,
+    "country": "Indonesia",
+    "state": "Bali",
+    "city": "Denpasar Kota",
+    "district": "Denpasar Utara",
+    "property_details": [
+      {
+        "type": "single",
+        "key": "p_sqr_building",
+        "value_name": "15",
+        "value": "15",
+        "key_name": "Luas bangunan",
+        "formatted_value": "15"
+      },
+      {
+        "type": "single",
+        "key": "p_bathroom",
+        "value_name": "1",
+        "value": "1",
+        "key_name": "Kamar Mandi",
+        "formatted_value": "1"
+      },
+      {
+        "type": "multi",
+        "key": "p_facility",
+        "values": [
+          {
+            "value": "carport"
+          },
+          {
+            "value": "pam"
+          }
+        ],
+        "key_name": "Fasilitas"
+      },
+      {
+        "type": "single",
+        "key": "p_alamat",
+        "value_name": "JL Tunjung Tutur Gang Baladewa No 6 Denpasar Utara",
+        "value": "JL Tunjung Tutur Gang Baladewa No 6 Denpasar Utara",
+        "key_name": "Alamat lokasi",
+        "formatted_value": "JL Tunjung Tutur Gang Baladewa No 6 Denpasar Utara"
+      }
+    ],
+    "image": "https://apollo-singapore.akamaized.net:443/v1/files/u03zqtw63lsa3-ID/image",
+    "contact_fullname": null,
+    "contact_phone_number": null,
+    "status": "active"
+  },
+  {
+    "origin_id": 889417899,
+    "title": "Dijual di bawah NJOP, Rp 675 jt, di Jimbaran, Bali",
+    "description": "Harga di bawah NJOP, Rp 675 juta",
+    "price": 675000000,
+    "price_display": "Rp 675.000.000",
+    "lat": -8.806,
+    "lng": 115.153,
+    "country": "Indonesia",
+    "state": "Bali",
+    "city": "Kab. Badung",
+    "district": "Kuta Selatan",
+    "property_details": [
+      {
+        "type": "single",
+        "key": "type",
+        "value_name": "Dijual",
+        "value": "dijual",
+        "key_name": "Tipe",
+        "formatted_value": "Dijual"
+      },
+      {
+        "type": "single",
+        "key": "p_sqr_land",
+        "value_name": "150",
+        "value": "150",
+        "key_name": "Luas tanah",
+        "formatted_value": "150"
+      },
+      {
+        "type": "single",
+        "key": "p_certificate",
+        "value_name": "SHM - Sertifikat Hak Milik",
+        "value": "shm-sertifikathakmilik",
+        "key_name": "Sertifikasi",
+        "formatted_value": "SHM - Sertifikat Hak Milik"
+      },
+      {
+        "type": "single",
+        "key": "p_alamat",
+        "value_name": "Masuk dari Kompleks Puri Gading",
+        "value": "Masuk dari Kompleks Puri Gading",
+        "key_name": "Alamat lokasi",
+        "formatted_value": "Masuk dari Kompleks Puri Gading"
+      }
+    ],
+    "image": "https://apollo-singapore.akamaized.net:443/v1/files/0i8fedixpq8u3-ID/image",
+    "contact_fullname": null,
+    "contact_phone_number": null,
+    "status": "active"
+  },
+  {
+    "origin_id": 891424263,
+    "title": "Tanah dekat JALAN UTAMA SEDAP MALAM",
+    "description": "DIJUAL TANAH LOKASI SEDAP MALAM dekat jalan utama\n\n-Akses DEKAT JALAN UTAMA \n-Dilokasi akses 4,5 meter\n-Aspal Hotmix\n-Mobil Papasan\n-Hadap Timur dan Utara\n-Aspek perumahan(bisa IMB)\n-Kontur tanah datar\n-Bebas Banjir\n\nHARGA : 600jt/are\n\nShaka.baliproperty",
+    "price": 600000000,
+    "price_display": "Rp 600.000.000",
+    "lat": -8.643,
+    "lng": 115.242,
+    "country": "Indonesia",
+    "state": "Bali",
+    "city": "Denpasar Kota",
+    "district": "Denpasar Timur",
+    "property_details": [
+      {
+        "type": "single",
+        "key": "type",
+        "value_name": "Dijual",
+        "value": "dijual",
+        "key_name": "Tipe",
+        "formatted_value": "Dijual"
+      },
+      {
+        "type": "single",
+        "key": "p_sqr_land",
+        "value_name": "100",
+        "value": "100",
+        "key_name": "Luas tanah",
+        "formatted_value": "100"
+      },
+      {
+        "type": "single",
+        "key": "p_certificate",
+        "value_name": "SHM - Sertifikat Hak Milik",
+        "value": "shm-sertifikathakmilik",
+        "key_name": "Sertifikasi",
+        "formatted_value": "SHM - Sertifikat Hak Milik"
+      },
+      {
+        "type": "single",
+        "key": "p_alamat",
+        "value_name": "Sedap malam",
+        "value": "Sedap malam",
+        "key_name": "Alamat lokasi",
+        "formatted_value": "Sedap malam"
+      }
+    ],
+    "image": "https://apollo-singapore.akamaized.net:443/v1/files/m4zdblm9m1521-ID/image",
+    "contact_fullname": null,
+    "contact_phone_number": null,
+    "status": "active"
+  },
+  {
+    "origin_id": 880520479,
+    "title": "Rumah 2 Lt. sudah renovasi di Terrace Campus, Jimbaran, Bali",
+    "description": "- Sertifikat Hak Milik ( SHM )\n- IMB\n- Luas Tanah     : 108 m2\n- Luas Bangunan : 100 m2 (asal Type 70, Renovasi menjadi type 100)\n- 4 Kamar Tidur (3+1)\n(Kamar utama: 2.5 x 6 mtr + 2 Kamar @ 9m2)\n- 2 Kamar Mandi\n-\ufe0f Ruang tamu Luas (udah Renovasi)\n-\ufe0f Dapur Luas + Tempat Cuci Baju dan Jemur (terpisah)\n- Mini Bar + Cermin\n- Semi Furnished\n-\ufe0f PDAM + SUMUR POMPA dan tersedia TANDON AIR STAINLESS STELL\n- Halaman Luas + Gazebo Kayu di Halaman \n- 1 Car Port + CANOPY \n- Balcony di Lantai 2 \n- Public Pool tepat di Depan Rumah\n- Ruas Jalan 5 meter (muat 2 mobil)\n\nLokasi PREMIUM, Dekat dengan Public Fasility :\n- 1 menit ke Parkside Denbukit Hotel (100m)\n- 2 menit ke Rumah Sakit Udayana Jimbaran (400m)\n- 3 Menit ke Rumah sakit Bali Jimbaran ( 1 km)\n- 4 Menit ke Warunk Upnormal & Mie Gacoan\n- 5 Menit ke KFC Jimbaran ( 1.5 km)\n- 5 Menit ke McDonald Jimbaran\n- 5 Menit ke Universitas Udayana (1.5 km)\n- 5 menit ke Pepito Jimbaran\n- 5 menit ke Foodcourt Udayana\n- 10 Menit ke Sidewalk Jimbaran\n- 10 Menit ke Garuda Wisnu Kencana Statue\n- 15 Menit ke Bandara\n\nPRICE : IDR 1.480.000.000 ( Nego sampai DEAL )\n(open for reseller)",
+    "price": 1480000000,
+    "price_display": "Rp 1.480.000.000",
+    "lat": -8.806,
+    "lng": 115.153,
+    "country": "Indonesia",
+    "state": "Bali",
+    "city": "Kab. Badung",
+    "district": "Kuta Selatan",
+    "property_details": [
+      {
+        "type": "single",
+        "key": "type",
+        "value_name": "Rumah",
+        "value": "rumah",
+        "key_name": "Tipe",
+        "formatted_value": "Rumah"
+      },
+      {
+        "type": "single",
+        "key": "p_sqr_building",
+        "value_name": "100",
+        "value": "100",
+        "key_name": "Luas bangunan",
+        "formatted_value": "100"
+      },
+      {
+        "type": "single",
+        "key": "p_sqr_land",
+        "value_name": "108",
+        "value": "108",
+        "key_name": "Luas tanah",
+        "formatted_value": "108"
+      },
+      {
+        "type": "single",
+        "key": "p_bedroom",
+        "value_name": "4",
+        "value": "4",
+        "key_name": "Kamar tidur",
+        "formatted_value": "4"
+      },
+      {
+        "type": "single",
+        "key": "p_bathroom",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "Kamar Mandi",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "p_floor",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "Lantai",
+        "formatted_value": "2"
+      },
+      {
+        "type": "multi",
+        "key": "p_facility",
+        "values": [
+          {
+            "value": "carport"
+          },
+          {
+            "value": "garasi"
+          },
+          {
+            "value": "garden"
+          },
+          {
+            "value": "swimmingpool"
+          }
+        ],
+        "key_name": "Fasilitas"
+      },
+      {
+        "type": "single",
+        "key": "p_certificate",
+        "value_name": "SHM - Sertifikat Hak Milik",
+        "value": "shm-sertifikathakmilik",
+        "key_name": "Sertifikasi",
+        "formatted_value": "SHM - Sertifikat Hak Milik"
+      },
+      {
+        "type": "single",
+        "key": "p_alamat",
+        "value_name": "Perumahan Terrace Campus 2, Jimbaran, Bali",
+        "value": "Perumahan Terrace Campus 2, Jimbaran, Bali",
+        "key_name": "Alamat lokasi",
+        "formatted_value": "Perumahan Terrace Campus 2, Jimbaran, Bali"
+      }
+    ],
+    "image": "https://apollo-singapore.akamaized.net:443/v1/files/0wo9ws05jzcc1-ID/image",
+    "contact_fullname": null,
+    "contact_phone_number": null,
+    "status": "active"
+  },
+  {
+    "origin_id": 893087054,
+    "title": "Rumah Dijual 6 BR Siap Huni Di Pulau Galang Imam Bonjol Kuta",
+    "description": "Rumah siap huni di jalan pulau galang-Imam bonjol KUTA.\nPerumahan gunung sari indahÂ \nDekat Trans mall Kuta.\n\n\nFull furnish(tinggal bawa koper)\nLingkungan perumahan onegate\nSecurity 24 jam\nNO banjir\n\n\nLuas tanah: 1,2are (120m2)\nLuas bangunan: 220m2\nKamar tidur: 5+1\nKamar mandi: 5 (Setiap kamar ada kamar mandi)\nRuang keluarga: 2(atas bawah)\nRuang tamu\nRuang makan\nDapur\nRuang nyuci n jemur\nGudang\nRuang bermain\nRuang kerja\nGarasi luas\nTeras\nBalkon depan\nBalkon kamar ada 2\nHalaman depan\nAkses jalan 7 mtr paving\nHadap barat\nSHM\nIMB\nRck\n\n\nHarga: 2,1 M\nnego langsung pemilik\n(NB: UNTUK CEK LOKASI HARAP KONFIRMASI 1HARI SEBELUMNYA )",
+    "price": 2100000000,
+    "price_display": "Rp 2.100.000.000",
+    "lat": -8.722,
+    "lng": 115.176,
+    "country": "Indonesia",
+    "state": "Bali",
+    "city": "Kab. Badung",
+    "district": "Kuta",
+    "property_details": [
+      {
+        "type": "single",
+        "key": "type",
+        "value_name": "",
+        "value": "",
+        "key_name": "Tipe"
+      },
+      {
+        "type": "single",
+        "key": "p_sqr_building",
+        "value_name": "220",
+        "value": "220",
+        "key_name": "Luas bangunan",
+        "formatted_value": "220"
+      },
+      {
+        "type": "single",
+        "key": "p_sqr_land",
+        "value_name": "120",
+        "value": "120",
+        "key_name": "Luas tanah",
+        "formatted_value": "120"
+      },
+      {
+        "type": "single",
+        "key": "p_bedroom",
+        "value_name": "6",
+        "value": "6",
+        "key_name": "Kamar tidur",
+        "formatted_value": "6"
+      },
+      {
+        "type": "single",
+        "key": "p_bathroom",
+        "value_name": "6",
+        "value": "6",
+        "key_name": "Kamar Mandi",
+        "formatted_value": "6"
+      },
+      {
+        "type": "single",
+        "key": "p_floor",
+        "value_name": "0",
+        "value": "0",
+        "key_name": "Lantai",
+        "formatted_value": "0"
+      }
+    ],
+    "image": "https://apollo-singapore.akamaized.net:443/v1/files/ltzxrzcj88yp-ID/image",
+    "contact_fullname": null,
+    "contact_phone_number": null,
+    "status": "active"
+  },
+  {
+    "origin_id": 893086954,
+    "title": "VILLA DEKAT CANGGU FULL FURNISHED HARGA MIRING",
+    "description": "VILLA DEKAT CANGGU FULL FURNISHED HARGA MIRING\nUnit : Casa Canggu\nLokasi : Badung, Bali\n\n\nNew Project Villa estate dekat canggu harga terjangkau. Lokasi strategis pinggir jalan, muat mobil papasan. Nikmati lingkungan yang asri dan indah dikelilingi alam yang hijau. Survey sekarang juga.\n\n\nSPESIFIKASI:\n Luas Bangunan 157 mÂ²\n Luas tanah 110 mÂ²\n 2 Kamar Tidur\n 2 Kamar Mandi\n Living Room (Ruang Tamu)\n Dapur\n Kolam Renang\n Carport\n Full Furnish\n SHM\n IMB\n\n\nSELLING POINT:\n Berhadapan dengan Sawah\n 1 menit dari Puskesmas Mengwi II\n 2 km dari Enchanting Hideaway homes Bali\n 3,5 km dari Passo by Nook\n 4,4 km dari HoiAn by MeVui Restaurant Ulaman Eco Retreat\n 5,1 km dari Bali Medical Assistance\n 5,3 km dari Pepito Market Canggu\n 6,1 km dari Rumah Sakit Umum Badung\n 7,6 km dari Pantai Batu Bolong\n 7,6 km dari Pantai Canggu\n 8,1 km dari Montessori International School Bali\n 8,4 km dari Canggu Community School\n 9,6 km dari Finns Beach Club\n\n\nVILLA DEKAT CANGGU FULL FURNISHED HARGA MIRING",
+    "price": 2890000000,
+    "price_display": "Rp 2.890.000.000",
+    "lat": -8.561,
+    "lng": 115.177,
+    "country": "Indonesia",
+    "state": "Bali",
+    "city": "Kab. Badung",
+    "district": "Mengwi",
+    "property_details": [
+      {
+        "type": "single",
+        "key": "type",
+        "value_name": "",
+        "value": "",
+        "key_name": "Tipe"
+      },
+      {
+        "type": "single",
+        "key": "p_sqr_building",
+        "value_name": "157",
+        "value": "157",
+        "key_name": "Luas bangunan",
+        "formatted_value": "157"
+      },
+      {
+        "type": "single",
+        "key": "p_sqr_land",
+        "value_name": "110",
+        "value": "110",
+        "key_name": "Luas tanah",
+        "formatted_value": "110"
+      },
+      {
+        "type": "single",
+        "key": "p_bedroom",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "Kamar tidur",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "p_bathroom",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "Kamar Mandi",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "p_floor",
+        "value_name": "1",
+        "value": "1",
+        "key_name": "Lantai",
+        "formatted_value": "1"
+      },
+      {
+        "type": "multi",
+        "key": "p_facility",
+        "values": [
+          {
+            "value": "garden"
+          },
+          {
+            "value": "garasi"
+          },
+          {
+            "value": "swimmingpool"
+          }
+        ],
+        "key_name": "Fasilitas"
+      }
+    ],
+    "image": "https://apollo-singapore.akamaized.net:443/v1/files/m3h5ttir2o8n-ID/image",
+    "contact_fullname": null,
+    "contact_phone_number": null,
+    "status": "active"
+  }
+]
