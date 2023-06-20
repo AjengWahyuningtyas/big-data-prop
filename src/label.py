@@ -13,7 +13,7 @@ classifier = pipeline(task, zero_shot_model)
 labels = ["expensive", "not expensive"]
 
 # 3: membuat prompt
-prompt_template = "This is the property of {title} with {property_details} and it values {price}."
+prompt_template = "This is the property of title: {title} with proprety_details: {property_details} and it values for about: {price}. If the property have so much property_details and the value is expensive, then the property is classified as \"expensive\". Otherwise, the property is classified as \"not expensive\"." 
 
 # 4-6: melakukan klasifikasi property
 def classify_property(title, price, property_details):
@@ -67,7 +67,7 @@ for data_point in labeled_testing_dataset:
 		json.dump(labeled_testing_dataset, file, indent=4)
 
 	# simpan dengan csv
-	with open('dataset/csv/labeled_testdata.csv', 'w', newline='') as file:
+	with open('dataset/csv/labeled_testdata_v2.csv', 'w', newline='') as file:
 		writer = csv.writer(file)
 		writer.writerow(["Title", "Price", "Property Details", "Predicted Label", "Predicted Score"])
 		for data_point in labeled_testing_dataset:
