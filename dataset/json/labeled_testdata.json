@@ -41,8 +41,8 @@
                 "formatted_value": "JL Tunjung Tutur Gang Baladewa No 6 Denpasar Utara"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7179185748100281
+        "predicted_label": "expensive",
+        "predicted_score": 0.629176676273346
     },
     {
         "title": "Dijual di bawah NJOP, Rp 675 jt, di Jimbaran, Bali",
@@ -81,8 +81,8 @@
                 "formatted_value": "Masuk dari Kompleks Puri Gading"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6192718744277954
+        "predicted_label": "expensive",
+        "predicted_score": 0.6444523930549622
     },
     {
         "title": "Tanah dekat JALAN UTAMA SEDAP MALAM",
@@ -121,8 +121,8 @@
                 "formatted_value": "Sedap malam"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6780469417572021
+        "predicted_label": "expensive",
+        "predicted_score": 0.7912328839302063
     },
     {
         "title": "Rumah 2 Lt. sudah renovasi di Terrace Campus, Jimbaran, Bali",
@@ -212,8 +212,8 @@
                 "formatted_value": "Perumahan Terrace Campus 2, Jimbaran, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5736150741577148
+        "predicted_label": "expensive",
+        "predicted_score": 0.6305543184280396
     },
     {
         "title": "Rumah Dijual 6 BR Siap Huni Di Pulau Galang Imam Bonjol Kuta",
@@ -267,8 +267,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7278552651405334
+        "predicted_label": "expensive",
+        "predicted_score": 0.6237001419067383
     },
     {
         "title": "Dijual Villa Modern View Pantai Sawah 4,4 are di Canggu, Bali",
@@ -341,8 +341,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.8062823414802551
+        "predicted_label": "expensive",
+        "predicted_score": 0.5705177187919617
     },
     {
         "title": "Villa Luxury 2 BR With Modern Tropical Style in Batu Belig Bali",
@@ -412,8 +412,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.8020291924476624
+        "predicted_label": "expensive",
+        "predicted_score": 0.7317108511924744
     },
     {
         "title": "VILLA DEKAT CANGGU FULL FURNISHED HARGA MIRING",
@@ -483,8 +483,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7335646748542786
+        "predicted_label": "expensive",
+        "predicted_score": 0.6916544437408447
     },
     {
         "title": "Vila Baru Renovasi Area Complex Vil,View Laut, Gunung & Tol, Jimbaran",
@@ -557,8 +557,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.8033127188682556
+        "predicted_label": "expensive",
+        "predicted_score": 0.5252736806869507
     },
     {
         "title": "New Luxury Ocean View Villa 3BR for Sale located in Jimbaran",
@@ -622,8 +622,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7290112376213074
+        "predicted_label": "expensive",
+        "predicted_score": 0.8232915997505188
     },
     {
         "title": "Luxury Modern Tropical Villa 3BR for Sale in Nusa Dua Bali",
@@ -690,8 +690,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5687444806098938
+        "predicted_label": "expensive",
+        "predicted_score": 0.728836178779602
     },
     {
         "title": "Tanah Dekat Macdonal Jimbaran View Luat (TJBN22)",
@@ -730,8 +730,8 @@
                 "formatted_value": "Jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6850619316101074
+        "predicted_label": "expensive",
+        "predicted_score": 0.8015666604042053
     },
     {
         "title": "For Rent Daily 2 Bedrooms Modern Villa in Jimbaran Bali - BVI25044",
@@ -804,8 +804,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.8515430688858032
+        "predicted_label": "expensive",
+        "predicted_score": 0.6475076675415039
     },
     {
         "title": "Di jual modern vila di taman jimbaran",
@@ -878,8 +878,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.8065857291221619
+        "predicted_label": "expensive",
+        "predicted_score": 0.6959326863288879
     },
     {
         "title": "Dijual Kos Kosan 1 lantai dan Ruko 2 lantai lokasi dekat SMA 2 tabanan",
@@ -933,8 +933,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.794806957244873
+        "predicted_label": "expensive",
+        "predicted_score": 0.6491457223892212
     },
     {
         "title": "H Villa Canggu Bali 2 Lantai Free Pool Lokasi Dekat Atlas Beach Club",
@@ -988,8 +988,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7702763080596924
+        "predicted_label": "expensive",
+        "predicted_score": 0.6355589628219604
     },
     {
         "title": "The Kuwum House. Beautifully furnished and Tastefully decorated Villa",
@@ -1065,8 +1065,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7817034125328064
+        "predicted_label": "expensive",
+        "predicted_score": 0.5328017473220825
     },
     {
         "title": "Dijual Villa Lokasi Di Babakan Canggu, Bali",
@@ -1143,7 +1143,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.7821169495582581
+        "predicted_score": 0.5074584484100342
     },
     {
         "title": "Rumah Mewah di Canggu 3 Bedroom cuma 11 Unit harga perdana",
@@ -1197,8 +1197,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6836476922035217
+        "predicted_label": "expensive",
+        "predicted_score": 0.6254963278770447
     },
     {
         "title": "RUMAH YANG STRATEGIS AMAN DAN NYAMAN BONUS  FULL FURNISH",
@@ -1265,8 +1265,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6624788045883179
+        "predicted_label": "expensive",
+        "predicted_score": 0.6972751617431641
     },
     {
         "title": "Rumah bagus villa",
@@ -1347,8 +1347,8 @@
                 "formatted_value": "Jalan Nangka perumahan permata arsandi"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6378953456878662
+        "predicted_label": "expensive",
+        "predicted_score": 0.897797703742981
     },
     {
         "title": "Rumah Baru siap huni type 65/100 daerah Sasih Batu Bulan",
@@ -1429,8 +1429,8 @@
                 "formatted_value": "Perumahan Bumi Sasih Asri Blok II F, Jln. Praptu Made Rambung, Banjar Sasih, Batu Bulan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6967907547950745
+        "predicted_label": "expensive",
+        "predicted_score": 0.6803563833236694
     },
     {
         "title": "BU DISC BESAR Dijual Sharing Unit D'luxor Condotel",
@@ -1534,8 +1534,8 @@
                 "formatted_value": "Between Raya Kuta Street and Sunset Road Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5364638566970825
+        "predicted_label": "expensive",
+        "predicted_score": 0.8977897763252258
     },
     {
         "title": "Dijual Rumah Indent 140/108 di Lokasi Premium di Jimbaran Bali",
@@ -1625,8 +1625,8 @@
                 "formatted_value": "Perumahan Terrace Campus Jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5600406527519226
+        "predicted_label": "expensive",
+        "predicted_score": 0.9114160537719727
     },
     {
         "title": "kebun durian los sungai dekat exit tol pekutatan",
@@ -1648,8 +1648,8 @@
                 "formatted_value": "26000"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7005707025527954
+        "predicted_label": "expensive",
+        "predicted_score": 0.581091582775116
     },
     {
         "title": "LUXURY VILLA BAWIKA+PRIVATE POOL DAN  BANYAK BONUS",
@@ -1728,8 +1728,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7099884748458862
+        "predicted_label": "expensive",
+        "predicted_score": 0.7043840885162354
     },
     {
         "title": "Hideaway Residence Phase 3 Full Furnished+Pool",
@@ -1793,8 +1793,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7911633253097534
+        "predicted_label": "expensive",
+        "predicted_score": 0.7864622473716736
     },
     {
         "title": "One unit left! For Sale Mediteranian Villa In Berawa",
@@ -1867,8 +1867,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6693739295005798
+        "predicted_label": "expensive",
+        "predicted_score": 0.7102246284484863
     },
     {
         "title": "VILLA DENGAN VIEW SAWAH LOKASI UMALAS",
@@ -1922,8 +1922,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7882415652275085
+        "predicted_label": "expensive",
+        "predicted_score": 0.6257954239845276
     },
     {
         "title": "Jual Rumah Tabanan Bali",
@@ -1977,8 +1977,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7839300036430359
+        "predicted_label": "expensive",
+        "predicted_score": 0.5114962458610535
     },
     {
         "title": "ID:D-457 For rent sewa Villa Sanur Denpasar Bali",
@@ -2051,8 +2051,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7304036617279053
+        "predicted_label": "expensive",
+        "predicted_score": 0.6528294086456299
     },
     {
         "title": "ID:XP-82 For rent sewa Rumah Ubud Gianyar Bali near Central Ubud\u00a0",
@@ -2122,8 +2122,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7000744938850403
+        "predicted_label": "expensive",
+        "predicted_score": 0.6750087738037109
     },
     {
         "title": "For Sale Mediterian Villa With Magnificent Rice Field View In Berawa",
@@ -2196,8 +2196,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7185150980949402
+        "predicted_label": "expensive",
+        "predicted_score": 0.696801483631134
     },
     {
         "title": "Dijual Rumah Siap Huni Di Kuta Bali",
@@ -2251,8 +2251,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7493382692337036
+        "predicted_label": "expensive",
+        "predicted_score": 0.5917099118232727
     },
     {
         "title": "Villa Freehold Desain Bali Minimalis 3 Kamar di Area Sanur Plus Taman",
@@ -2331,8 +2331,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7950344085693359
+        "predicted_label": "expensive",
+        "predicted_score": 0.6454712748527527
     },
     {
         "title": "Serenity Jimbaran Villa Off Plan",
@@ -2396,8 +2396,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7788987755775452
+        "predicted_label": "expensive",
+        "predicted_score": 0.7569589018821716
     },
     {
         "title": "Jual tanah tukad yeh aya renon lt 275 m2",
@@ -2419,8 +2419,8 @@
                 "formatted_value": "275"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6935944557189941
+        "predicted_label": "expensive",
+        "predicted_score": 0.560188889503479
     },
     {
         "title": "1445. DIJUAL RUMAH BARU VIEW LAUT BENOA, NUSA DUA - BALI",
@@ -2474,8 +2474,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6451259255409241
+        "predicted_label": "expensive",
+        "predicted_score": 0.6173645257949829
     },
     {
         "title": "rumah dikawasan mahendradatta denpasar",
@@ -2529,8 +2529,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6904580593109131
+        "predicted_label": "expensive",
+        "predicted_score": 0.5699414610862732
     },
     {
         "title": "Dijual tanah perumahan siap bangun di dekat puspem badung",
@@ -2569,8 +2569,8 @@
                 "formatted_value": "Jl sempidi badung bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6667706370353699
+        "predicted_label": "expensive",
+        "predicted_score": 0.6871929168701172
     },
     {
         "title": "cluster mewah lokasi strategis di nusa dua",
@@ -2637,8 +2637,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7874218821525574
+        "predicted_label": "expensive",
+        "predicted_score": 0.7035305500030518
     },
     {
         "title": "TANAH KUTA BALI",
@@ -2660,8 +2660,8 @@
                 "formatted_value": "3000"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6061179637908936
+        "predicted_label": "expensive",
+        "predicted_score": 0.5525767207145691
     },
     {
         "title": "Rumah Baru full furnish/kosongan tukad badung sanur panjer renon",
@@ -2751,8 +2751,8 @@
                 "formatted_value": "Jln. Tukad badung XVI A no 9"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6676933169364929
+        "predicted_label": "expensive",
+        "predicted_score": 0.8736796379089355
     },
     {
         "title": "RUMAH BARU 3 KAMAR TIDUR JL. KEBO IWA UTARA DENPASAR BALI",
@@ -2819,8 +2819,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7437441945075989
+        "predicted_label": "expensive",
+        "predicted_score": 0.7190834879875183
     },
     {
         "title": "Dijual tanah ubud view sungai tebing",
@@ -2842,8 +2842,8 @@
                 "formatted_value": "9200"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6641953587532043
+        "predicted_label": "expensive",
+        "predicted_score": 0.6782193779945374
     },
     {
         "title": "Tanah PRIME JL Pemuda - RENON Denpasar",
@@ -2882,8 +2882,8 @@
                 "formatted_value": "Jl Pemuda Renon Denpasar l 082 233 233 123"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.654567539691925
+        "predicted_label": "expensive",
+        "predicted_score": 0.6213627457618713
     },
     {
         "title": "Rumah modern lantai 3 di ungasan Jimbaran - View Bagus",
@@ -2959,8 +2959,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7874160408973694
+        "predicted_label": "expensive",
+        "predicted_score": 0.5203440189361572
     },
     {
         "title": "ID:D-513 For Rent Sewa Rumah Semi Villa Renon Denpasar Bali",
@@ -3030,8 +3030,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.8317328095436096
+        "predicted_label": "expensive",
+        "predicted_score": 0.6435863375663757
     },
     {
         "title": "Gedung Kantor Disewakan di Renon, Denpasar",
@@ -3054,8 +3054,8 @@
                 "formatted_value": "1580"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7926927804946899
+        "predicted_label": "expensive",
+        "predicted_score": 0.6507086157798767
     },
     {
         "title": "Villa komersial di Pantai Balangan dan dekat Pantai Bingin Bali",
@@ -3132,7 +3132,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.7851794958114624
+        "predicted_score": 0.5128710865974426
     },
     {
         "title": "Urgent Sale! Cliff Front Land In Newest Beach In South Kuta",
@@ -3155,7 +3155,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.7319170832633972
+        "predicted_score": 0.6593647599220276
     },
     {
         "title": "Di Jual Villa Lokasi di Seminyak, Bali",
@@ -3225,8 +3225,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.768806517124176
+        "predicted_label": "expensive",
+        "predicted_score": 0.6715478897094727
     },
     {
         "title": "Dijual tanah perumahan di sempidi dekat puspem badung bali",
@@ -3248,8 +3248,8 @@
                 "formatted_value": "100"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6517413258552551
+        "predicted_label": "expensive",
+        "predicted_score": 0.5430406332015991
     },
     {
         "title": "DIJUAL HOTEL DI Jl. Sunset Road 101, Kuta, Bali",
@@ -3272,8 +3272,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7669340372085571
+        "predicted_label": "expensive",
+        "predicted_score": 0.6014974117279053
     },
     {
         "title": "Villa Cantik Hnya 50 Mter Dri Jln. Utama Canggu Berawa",
@@ -3346,8 +3346,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.701788604259491
+        "predicted_label": "expensive",
+        "predicted_score": 0.6117553114891052
     },
     {
         "title": "Hotel Grand City inn, Denpasar bali",
@@ -3389,8 +3389,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6059125065803528
+        "predicted_label": "expensive",
+        "predicted_score": 0.6535546183586121
     },
     {
         "title": "tanah kavling terbaru dikawasan batubulan",
@@ -3412,8 +3412,8 @@
                 "formatted_value": "100"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.72796231508255
+        "predicted_label": "expensive",
+        "predicted_score": 0.6018778085708618
     },
     {
         "title": "RUKO 3lt di Pusat Denpasar Barat SHM & IMB Lengkap Lt 85m2",
@@ -3436,8 +3436,8 @@
                 "formatted_value": "85"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6945675611495972
+        "predicted_label": "expensive",
+        "predicted_score": 0.6011378765106201
     },
     {
         "title": "loss pantai pasut Tabanan Bali!! 40.6 are tanah di jual",
@@ -3459,8 +3459,8 @@
                 "formatted_value": "4068"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5638050436973572
+        "predicted_label": "expensive",
+        "predicted_score": 0.6656053066253662
     },
     {
         "title": "Dijual Murah 1 Unit Apartment Exclusive Di Grand Kuta Legian - Bali",
@@ -3537,7 +3537,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.7869440317153931
+        "predicted_score": 0.556900680065155
     },
     {
         "title": "Jual tanah perkebunan kopi arabika",
@@ -3576,8 +3576,8 @@
                 "formatted_value": "Desa Catur,Kintamani,Bangli"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7595157027244568
+        "predicted_label": "expensive",
+        "predicted_score": 0.6820806264877319
     },
     {
         "title": "Jual Tanah Kawasan Sejuk Villa Baturiti - Bedugul",
@@ -3616,8 +3616,8 @@
                 "formatted_value": "Dijual"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7408112287521362
+        "predicted_label": "expensive",
+        "predicted_score": 0.6556644439697266
     },
     {
         "title": "Sewa Villa di Seminyak Bali Harian, Mingguan dan Bulanan - BVI9862",
@@ -3731,8 +3731,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7072855234146118
+        "predicted_label": "expensive",
+        "predicted_score": 0.6871641278266907
     },
     {
         "title": "Beachside Apartment near Kudeta For Lease",
@@ -3787,7 +3787,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.7747841477394104
+        "predicted_score": 0.5631262063980103
     },
     {
         "title": "Dijual rumah kawasan dalung permai",
@@ -3851,8 +3851,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7381616234779358
+        "predicted_label": "expensive",
+        "predicted_score": 0.764448344707489
     },
     {
         "title": "Tanah strategis areal Gn.Catur ,, cocok buat apa saja",
@@ -3874,8 +3874,8 @@
                 "formatted_value": "477"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7561969757080078
+        "predicted_label": "expensive",
+        "predicted_score": 0.5617840886116028
     },
     {
         "title": "DIJUAL RUMAH MINIMALIS DI TUKAD BADUNG RENON DENPASAR",
@@ -3971,8 +3971,8 @@
                 "formatted_value": "Tukad badung"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.527588427066803
+        "predicted_label": "expensive",
+        "predicted_score": 0.739138662815094
     },
     {
         "title": "Tanah dekat Seminyak Bali di Gunung Salak bonus IMB",
@@ -4012,7 +4012,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5215493440628052
+        "predicted_score": 0.6466764211654663
     },
     {
         "title": "Disewakan tanah dekat pantai sanur",
@@ -4034,8 +4034,8 @@
                 "formatted_value": "2565"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6162232160568237
+        "predicted_label": "expensive",
+        "predicted_score": 0.6108406186103821
     },
     {
         "title": "Dijual tanah jln Raya tengkulak",
@@ -4057,8 +4057,8 @@
                 "formatted_value": "3960"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.704635739326477
+        "predicted_label": "expensive",
+        "predicted_score": 0.6341055035591125
     },
     {
         "title": "4 Villas & 1 House with Greenbelt Views at Tumbak Bayuh, Canggu.",
@@ -4112,8 +4112,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7482637763023376
+        "predicted_label": "expensive",
+        "predicted_score": 0.5762773752212524
     },
     {
         "title": "Dijual rumah kawasan elit jl pemuda renon denpasar",
@@ -4167,8 +4167,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7409670948982239
+        "predicted_label": "expensive",
+        "predicted_score": 0.6312965750694275
     },
     {
         "title": "Dijual Tanah Ladang",
@@ -4207,8 +4207,8 @@
                 "formatted_value": "Mekarsari, Kecamatan Baturiti , Tabanan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7918031811714172
+        "predicted_label": "expensive",
+        "predicted_score": 0.5448899269104004
     },
     {
         "title": "2 hektar Sewa Nyangnyang Uluwatu Pecatu Bali",
@@ -4247,8 +4247,8 @@
                 "formatted_value": "Jalan Uluwatu Pecatu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6250682473182678
+        "predicted_label": "expensive",
+        "predicted_score": 0.6387512683868408
     },
     {
         "title": "Dijual Rumah Cantik 2 Lantai Lokasi Strategis di Kota Denpasar",
@@ -4312,8 +4312,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7939532399177551
+        "predicted_label": "expensive",
+        "predicted_score": 0.7551214098930359
     },
     {
         "title": "TOP Villa Dan Homestay Murah Pererenan  Canggu Bali",
@@ -4392,8 +4392,8 @@
                 "formatted_value": "Jalan Pantai Pererenan Canggu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6309210658073425
+        "predicted_label": "expensive",
+        "predicted_score": 0.7876335382461548
     },
     {
         "title": "Tanah beach front los pantai tegal besar klungkung dekat pantai siut",
@@ -4432,8 +4432,8 @@
                 "formatted_value": "jalan pantai tegal besar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5932517051696777
+        "predicted_label": "expensive",
+        "predicted_score": 0.7088753581047058
     },
     {
         "title": "Tanah Jalan Utama Buana Raya Padang Sambian denpasar",
@@ -4472,8 +4472,8 @@
                 "formatted_value": "jalan buana raya"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7111058831214905
+        "predicted_label": "expensive",
+        "predicted_score": 0.7869545817375183
     },
     {
         "title": "Tanah Los tebing Cliff Front Sawangan Nusa dua dekat Pandawa",
@@ -4512,8 +4512,8 @@
                 "formatted_value": "nusa dua"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6484959721565247
+        "predicted_label": "expensive",
+        "predicted_score": 0.8395646214485168
     },
     {
         "title": "Dikontrakkan Rumah",
@@ -4589,8 +4589,8 @@
                 "formatted_value": "Jl. Sakura IV Gg.B No.6"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6869794130325317
+        "predicted_label": "expensive",
+        "predicted_score": 0.6783432364463806
     },
     {
         "title": "Dikontrakan Rumah 2 Lantai di Ubung Denpasar Utara Bali, Perumahan",
@@ -4677,8 +4677,8 @@
                 "formatted_value": "Jln. Nuansa Hijau Utama XX No.5, Denpasar Utara"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6270118951797485
+        "predicted_label": "expensive",
+        "predicted_score": 0.718733549118042
     },
     {
         "title": "Disc 50% Hotel By Pass Ngurah Rai Kuta Mr Tan",
@@ -4761,7 +4761,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5182549953460693
+        "predicted_score": 0.841652512550354
     },
     {
         "title": "Kost Jl.Trengguli' Dekat Mall Living World , Gatsu Timur",
@@ -4808,8 +4808,8 @@
                 "formatted_value": "Jalan Trengguli Gg.lV B.l Blok A No. 2'  Penatih Denpasar Timur"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7554218769073486
+        "predicted_label": "expensive",
+        "predicted_score": 0.6477569341659546
     },
     {
         "title": "tanah kebun durian los sungai dan waterpool di bali",
@@ -4834,8 +4834,8 @@
                 "key_name": "Tipe"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6818637251853943
+        "predicted_label": "expensive",
+        "predicted_score": 0.5448196530342102
     },
     {
         "title": "Villa full View Sawah Pejeng Ubud Bali",
@@ -4922,8 +4922,8 @@
                 "formatted_value": "pejeng"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5971735715866089
+        "predicted_label": "expensive",
+        "predicted_score": 0.8417364954948425
     },
     {
         "title": "Tanah MURAH Jalan Bidadari gunung athena seminyak",
@@ -4962,8 +4962,8 @@
                 "formatted_value": "jalan bidadari"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7561475038528442
+        "predicted_label": "expensive",
+        "predicted_score": 0.8490339517593384
     },
     {
         "title": "Dijual tanah area ubud",
@@ -4985,8 +4985,8 @@
                 "formatted_value": "3800"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6664214134216309
+        "predicted_label": "expensive",
+        "predicted_score": 0.5588642358779907
     },
     {
         "title": "Dijual rumah mewah kawasan renon denpasar",
@@ -5050,8 +5050,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7993396520614624
+        "predicted_label": "expensive",
+        "predicted_score": 0.7674466967582703
     },
     {
         "title": "Tanah sewa, luas 1030m2, di Jalan Raya Puputan, Renon, Denpasar, Bali",
@@ -5073,8 +5073,8 @@
                 "formatted_value": "1030"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6617880463600159
+        "predicted_label": "expensive",
+        "predicted_score": 0.7092418074607849
     },
     {
         "title": "Jual Rumah di Bali murah",
@@ -5155,8 +5155,8 @@
                 "formatted_value": "Perum Puskopad Mandung, desa Mandung, kerambitan, Tabanan, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6304397583007812
+        "predicted_label": "expensive",
+        "predicted_score": 0.8362312912940979
     },
     {
         "title": "sale Tanah View Sawah Pantai Cemagi Canggu Bali",
@@ -5178,8 +5178,8 @@
                 "formatted_value": "956"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7836024165153503
+        "predicted_label": "expensive",
+        "predicted_score": 0.5899218916893005
     },
     {
         "title": "Dijual Rumah 2 Lantai Lokasi Strategis Kawasan Villa",
@@ -5243,8 +5243,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7609951496124268
+        "predicted_label": "expensive",
+        "predicted_score": 0.7863056659698486
     },
     {
         "title": "Dijual tanah + bangunan",
@@ -5337,8 +5337,8 @@
                 "formatted_value": "Br Segara Kuta Bali Indonesia"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5393190383911133
+        "predicted_label": "expensive",
+        "predicted_score": 0.8231968283653259
     },
     {
         "title": "Tanah dijual, luas 500m2, di Jalan Pemuda, Renon, Denpasar, Bali",
@@ -5360,8 +5360,8 @@
                 "formatted_value": "500"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7148200273513794
+        "predicted_label": "expensive",
+        "predicted_score": 0.5182034969329834
     },
     {
         "title": "HUNIAN MEWAH LANTAI 2 DI POH GADING UBUNG DENPASAR",
@@ -5425,8 +5425,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7653207778930664
+        "predicted_label": "expensive",
+        "predicted_score": 0.7300163507461548
     },
     {
         "title": "Rumah Kontrakan FURNISH di Renon",
@@ -5513,8 +5513,8 @@
                 "formatted_value": "Renon Denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6201790571212769
+        "predicted_label": "expensive",
+        "predicted_score": 0.8707699775695801
     },
     {
         "title": "Dijual rumah mewah kawasan jl gatsu denpasar",
@@ -5578,8 +5578,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7518712282180786
+        "predicted_label": "expensive",
+        "predicted_score": 0.7311486005783081
     },
     {
         "title": "RUMAH LOKASI DI GATSU TENGAH",
@@ -5633,8 +5633,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7564335465431213
+        "predicted_label": "expensive",
+        "predicted_score": 0.651934802532196
     },
     {
         "title": "Tanah dijual, luas 251m2, dekat Jalan Teuku Umar Barat, Denpasar, Bali",
@@ -5656,8 +5656,8 @@
                 "formatted_value": "251"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7398285269737244
+        "predicted_label": "expensive",
+        "predicted_score": 0.62533038854599
     },
     {
         "title": "Kavling SHM dijual BUC",
@@ -5696,8 +5696,8 @@
                 "formatted_value": "Jl. Arjuna, baluk anyar, negara, jembrana."
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6598761081695557
+        "predicted_label": "expensive",
+        "predicted_score": 0.6369584798812866
     },
     {
         "title": "Rumah Baru Jalan Drupadi 12 No 3  habis renovasi pusat kota",
@@ -5751,8 +5751,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7174408435821533
+        "predicted_label": "expensive",
+        "predicted_score": 0.5958493947982788
     },
     {
         "title": "Disewakan tanah untuk pertanian dan perkebunan",
@@ -5791,8 +5791,8 @@
                 "formatted_value": "Desa Gadungan Selamadeg Timur"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6336788535118103
+        "predicted_label": "expensive",
+        "predicted_score": 0.6371184587478638
     },
     {
         "title": "Di jual rumah kawasan elite.",
@@ -5856,8 +5856,8 @@
                 "formatted_value": "Perum. Taman mumbul, jl. Taman sari kav. 21 , kec. Kuta selatan, kel. Benoa, kab. Badung, prov. Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6797001361846924
+        "predicted_label": "expensive",
+        "predicted_score": 0.5785029530525208
     },
     {
         "title": "Tanah Bonus Villa Canggu 2,6 km ke Fins Beach Club",
@@ -5896,8 +5896,8 @@
                 "formatted_value": "Canggu-kuta utara"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6833310723304749
+        "predicted_label": "expensive",
+        "predicted_score": 0.7225401997566223
     },
     {
         "title": "pantai nyanyi Tabanan!! villa luxury di jual",
@@ -5951,8 +5951,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.520129382610321
+        "predicted_label": "expensive",
+        "predicted_score": 0.6845598220825195
     },
     {
         "title": "DI JUAL RUKO DI GUNUNG ANDAKASA , BLKNG MITRA 10 , DENPASAR",
@@ -6004,8 +6004,8 @@
                 "formatted_value": "Jalan Gunung Andakasa Belakang Mitra 10 , Denpasar Barat"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6678982973098755
+        "predicted_label": "expensive",
+        "predicted_score": 0.6915302276611328
     },
     {
         "title": "PRICE DROPPED FROM 1,360,000,000,- TO IDR 1,080,000,000,-. NA284444",
@@ -6045,7 +6045,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.8022143244743347
+        "predicted_score": 0.7796093225479126
     },
     {
         "title": "2 Bedrooms Villa For Sale at Lovina Central NA323636",
@@ -6114,8 +6114,8 @@
                 "formatted_value": "Lovina"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6606094837188721
+        "predicted_label": "expensive",
+        "predicted_score": 0.6479554772377014
     },
     {
         "title": "KBP0122 - Modern Minimalist Design in Sanur.",
@@ -6188,8 +6188,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.8212274312973022
+        "predicted_label": "expensive",
+        "predicted_score": 0.7778674364089966
     },
     {
         "title": "Rumah dijual, 2 lantai, tanah 400m2, di Jalan Gatot Subroto, Denpasar",
@@ -6256,8 +6256,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7740839719772339
+        "predicted_label": "expensive",
+        "predicted_score": 0.6723052263259888
     },
     {
         "title": "LAND FOR SALE IN LOVINA KA258445",
@@ -6296,8 +6296,8 @@
                 "formatted_value": "Lovina"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6858527064323425
+        "predicted_label": "expensive",
+        "predicted_score": 0.786040723323822
     },
     {
         "title": "LAND FOR SALE IN NORTH BALI KA258396",
@@ -6336,8 +6336,8 @@
                 "formatted_value": "Lovina"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.61110919713974
+        "predicted_label": "expensive",
+        "predicted_score": 0.7955535054206848
     },
     {
         "title": "Dijual tanah di Dewi Supraba Antasura. Denpasar.",
@@ -6359,8 +6359,8 @@
                 "formatted_value": "100"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6609071493148804
+        "predicted_label": "expensive",
+        "predicted_score": 0.5644713640213013
     },
     {
         "title": "Rumah 2 lantai dikawasan elite gatot subroto tengah denpasar",
@@ -6414,8 +6414,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7202990651130676
+        "predicted_label": "expensive",
+        "predicted_score": 0.6689403057098389
     },
     {
         "title": "Lahan Sewa Ls 20 Are Jln Pantai Nyanyi - 2 Mnt ke Pantai",
@@ -6454,8 +6454,8 @@
                 "formatted_value": "Jln Pantai Nyanyi Tabanan Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6397959589958191
+        "predicted_label": "expensive",
+        "predicted_score": 0.6001015305519104
     },
     {
         "title": "LAND ON THE MAIN ROAD OF TIRTA TAWAR, UBUD",
@@ -6477,8 +6477,8 @@
                 "formatted_value": "1288"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5923174619674683
+        "predicted_label": "expensive",
+        "predicted_score": 0.5784856081008911
     },
     {
         "title": "Disewakan villa Elite di Krobokan Canggu",
@@ -6532,8 +6532,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6564691066741943
+        "predicted_label": "expensive",
+        "predicted_score": 0.6609244346618652
     },
     {
         "title": "Lahan Sewa Ls 370m2 di Kayu Tulang Canggu",
@@ -6572,8 +6572,8 @@
                 "formatted_value": "Kayu Tulang Selatan Canggu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6115360260009766
+        "predicted_label": "expensive",
+        "predicted_score": 0.6811315417289734
     },
     {
         "title": "Tanah Murah 275m2 jln Utama TKD Yeh Aye Renon Denpasar",
@@ -6595,8 +6595,8 @@
                 "formatted_value": "275"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6144803166389465
+        "predicted_label": "expensive",
+        "predicted_score": 0.5984471440315247
     },
     {
         "title": "VILLA FOR SHORT AND LONG TERM LEASE IN CENTRAL SEMINYAK",
@@ -6650,8 +6650,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7950988411903381
+        "predicted_label": "expensive",
+        "predicted_score": 0.6110981702804565
     },
     {
         "title": "Luxury Villa in Canggu, expect better return on investment",
@@ -6751,7 +6751,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.7135297060012817
+        "predicted_score": 0.7421233057975769
     },
     {
         "title": "Tanah view sawah 15 menit dari Canggu dan 7 menit dari pantai Kedungu",
@@ -6790,8 +6790,8 @@
                 "formatted_value": "Kedungu, Tabanan, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6259148716926575
+        "predicted_label": "expensive",
+        "predicted_score": 0.6379501223564148
     },
     {
         "title": "Dijual Tanah pinggir pantai dan tebing",
@@ -6830,8 +6830,8 @@
                 "formatted_value": "Antap, Tabanan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7120991945266724
+        "predicted_label": "expensive",
+        "predicted_score": 0.8290101289749146
     },
     {
         "title": "8 Bedrooms Villa di ubud dengan area yoga view sawah & kolam berenang",
@@ -6924,8 +6924,8 @@
                 "formatted_value": "POMAS Chocolatier Ubud - Banjar Dangin Labak, Singakerta, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6889743208885193
+        "predicted_label": "expensive",
+        "predicted_score": 0.774562418460846
     },
     {
         "title": "RARE SMALL PLOT FOR SALE IN SEKUTA",
@@ -6947,8 +6947,8 @@
                 "formatted_value": "289"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5750259160995483
+        "predicted_label": "expensive",
+        "predicted_score": 0.6245952248573303
     },
     {
         "title": "Rumah STRATEGIS Gatsu Tengah dkt Puri Bunda Bedahulu 225m2",
@@ -7035,8 +7035,8 @@
                 "formatted_value": "Gatsu tengah dekat ke RS. Puri Bunda Raya Gatsu Bedahulu Gatsu 1 Denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6315034627914429
+        "predicted_label": "expensive",
+        "predicted_score": 0.6142361164093018
     },
     {
         "title": "Dijual  Brand New Luxury Villa di Jimbaran Dengan View Spectacular",
@@ -7115,8 +7115,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.677842915058136
+        "predicted_label": "expensive",
+        "predicted_score": 0.6964818239212036
     },
     {
         "title": "DIJUAL VILLA DI PANTAI PASUT KERAMBITAN TABANAN BALI (FULL FURNISHED)",
@@ -7181,8 +7181,8 @@
                 "formatted_value": "PASUT KERAMBITAN TABANAN BALI"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.788765549659729
+        "predicted_label": "expensive",
+        "predicted_score": 0.8700750470161438
     },
     {
         "title": "Tanah di Hook By Pass Ngurah Rai Denpasar",
@@ -7221,8 +7221,8 @@
                 "formatted_value": "By Pass Ngurah Rai Suwung Denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6562987565994263
+        "predicted_label": "expensive",
+        "predicted_score": 0.6667996644973755
     },
     {
         "title": "Ruko  3 Lantai jual bawah harga di Teuku Umar Denpasar",
@@ -7280,8 +7280,8 @@
                 "formatted_value": "Jl. Pulau Tarakan Denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7387530207633972
+        "predicted_label": "expensive",
+        "predicted_score": 0.7255446314811707
     },
     {
         "title": "KH 028 For sale villa one gate di pecatu badung bali near uluwatu",
@@ -7351,8 +7351,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6039530634880066
+        "predicted_label": "expensive",
+        "predicted_score": 0.726768434047699
     },
     {
         "title": "Dijual Rumah Benoa Kuta Selatan Badung",
@@ -7433,8 +7433,8 @@
                 "formatted_value": "Benoa Kuta Selatan Badung"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6233620643615723
+        "predicted_label": "expensive",
+        "predicted_score": 0.8634862303733826
     },
     {
         "title": "Dijual Tanah Tumbak bayu 10are JH-1433",
@@ -7456,8 +7456,8 @@
                 "formatted_value": "1000"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5776727795600891
+        "predicted_label": "expensive",
+        "predicted_score": 0.6123091578483582
     },
     {
         "title": "villa rent lease for 3 years seminyak",
@@ -7511,8 +7511,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7378377318382263
+        "predicted_label": "expensive",
+        "predicted_score": 0.5064760446548462
     },
     {
         "title": "LAHAN KECIL DI KAYU TULANG, CANGGU",
@@ -7534,8 +7534,8 @@
                 "formatted_value": "320"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.695218026638031
+        "predicted_label": "expensive",
+        "predicted_score": 0.6012012958526611
     },
     {
         "title": "hotel bintang 3  view pantai di Ida Bagus mantra di jual.",
@@ -7558,8 +7558,8 @@
                 "formatted_value": "1700"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6563212275505066
+        "predicted_label": "expensive",
+        "predicted_score": 0.5939397811889648
     },
     {
         "title": "Dijual Tanah 4,25 ARE Berlokasi di JALAN GANDAPURA III KESIMAN DENPASA",
@@ -7581,8 +7581,8 @@
                 "formatted_value": "425"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6607802510261536
+        "predicted_label": "expensive",
+        "predicted_score": 0.6213342547416687
     },
     {
         "title": "BU Dijual Cepat Tanah Kavling Strategis",
@@ -7621,8 +7621,8 @@
                 "formatted_value": "bitera, gianyar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6428141593933105
+        "predicted_label": "expensive",
+        "predicted_score": 0.8477479219436646
     },
     {
         "title": "Dikontrakan  tanah Jln Tukad Badung  Renon Denpasar selatan",
@@ -7644,8 +7644,8 @@
                 "formatted_value": "100"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6218376755714417
+        "predicted_label": "expensive",
+        "predicted_score": 0.5466502904891968
     },
     {
         "title": "Rumah di Jalan Gunung Salak Utara, Denpasar Barat, Bali",
@@ -7716,8 +7716,8 @@
                 "formatted_value": "Jl. Gunung Salak Utara"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7357383370399475
+        "predicted_label": "expensive",
+        "predicted_score": 0.5885433554649353
     },
     {
         "title": "DIJUAL TANAH PREMIUM LOS TEBING",
@@ -7756,8 +7756,8 @@
                 "formatted_value": "kuta selatan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6224218606948853
+        "predicted_label": "expensive",
+        "predicted_score": 0.7950142621994019
     },
     {
         "title": "RUMAH DEKAT TERMINAL UBUNG DAN COKROAMINOTO",
@@ -7821,8 +7821,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.744671106338501
+        "predicted_label": "expensive",
+        "predicted_score": 0.7372870445251465
     },
     {
         "title": "RUKAN FULL Furnish Imam Bonjol Square Denpasar dekat Trans Studio Mall",
@@ -7905,7 +7905,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5356743931770325
+        "predicted_score": 0.7216483950614929
     },
     {
         "title": "View sawah Bali",
@@ -8010,8 +8010,8 @@
                 "formatted_value": "3 km dr Pantai yeh gangga Tabanan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6034440994262695
+        "predicted_label": "expensive",
+        "predicted_score": 0.7200837731361389
     },
     {
         "title": "Dijual tanah jln kerta dalem sari 4  sidakarya  denpasar selatan.",
@@ -8033,8 +8033,8 @@
                 "formatted_value": "200"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7098385691642761
+        "predicted_label": "expensive",
+        "predicted_score": 0.5857462286949158
     },
     {
         "title": "Brand new lux villa ocean view one gate security pecatu indah resort",
@@ -8127,8 +8127,8 @@
                 "formatted_value": "Jalan pecatu indah resort"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6653046607971191
+        "predicted_label": "expensive",
+        "predicted_score": 0.8905305862426758
     },
     {
         "title": "Dijual tanah Lokasi jln induk tkd yeh aya IX renon Denpasar Selatan",
@@ -8150,8 +8150,8 @@
                 "formatted_value": "275"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6847658753395081
+        "predicted_label": "expensive",
+        "predicted_score": 0.5490784645080566
     },
     {
         "title": "Disewakan Harian villa 3 Kamar di Canggu Bali - BVI36668",
@@ -8268,8 +8268,8 @@
                 "formatted_value": "Canggu - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5985749363899231
+        "predicted_label": "expensive",
+        "predicted_score": 0.8041509389877319
     },
     {
         "title": "Beautiful View Land For Sale KA386971",
@@ -8308,8 +8308,8 @@
                 "formatted_value": "Buleleng"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5085828900337219
+        "predicted_label": "expensive",
+        "predicted_score": 0.8375257253646851
     },
     {
         "title": "Sewa Harian Villa 3 Kamar di Canggu Bali - BVI37164",
@@ -8426,8 +8426,8 @@
                 "formatted_value": "Canggu - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.604751706123352
+        "predicted_label": "expensive",
+        "predicted_score": 0.7428372502326965
     },
     {
         "title": "dijual villa baru lantai 2 area tibu beneng canggu bali",
@@ -8481,8 +8481,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7178939580917358
+        "predicted_label": "expensive",
+        "predicted_score": 0.609618067741394
     },
     {
         "title": "Sewa Harian Villa 2 Kamar di Seminyak Bali - BVI37437",
@@ -8596,8 +8596,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6117210984230042
+        "predicted_label": "expensive",
+        "predicted_score": 0.614941418170929
     },
     {
         "title": "OVER KONTRAK GUDANG BEKAS FURNITURE",
@@ -8642,8 +8642,8 @@
                 "formatted_value": "Jl Raya Padang Luwih, Dalung, Kuta Utara, Badung, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6589255928993225
+        "predicted_label": "expensive",
+        "predicted_score": 0.7523056864738464
     },
     {
         "title": "Rental Harian Villa Modern di Seminyak Bali - BVI37623",
@@ -8757,8 +8757,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6112210154533386
+        "predicted_label": "expensive",
+        "predicted_score": 0.6194348931312561
     },
     {
         "title": "TANAH KAVPLING PREMIUM DI GATSU TIMUR PERUMAHAN JEPUN ASRI",
@@ -8780,8 +8780,8 @@
                 "formatted_value": "100"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6703711152076721
+        "predicted_label": "expensive",
+        "predicted_score": 0.5236815810203552
     },
     {
         "title": "Sewa Villa Modern Harian, 3 Kamar di Seminyak Bali - BVi14617",
@@ -8895,8 +8895,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6881961226463318
+        "predicted_label": "expensive",
+        "predicted_score": 0.6758833527565002
     },
     {
         "title": "Rental Villa Modern, 2 Kamar Tidur di Seminyak Bali - BVI30268",
@@ -9010,8 +9010,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6218435764312744
+        "predicted_label": "expensive",
+        "predicted_score": 0.6619400978088379
     },
     {
         "title": "Brand new lux villa ocean view one gate security pecatu indah resort",
@@ -9081,8 +9081,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.8010549545288086
+        "predicted_label": "expensive",
+        "predicted_score": 0.7543238997459412
     },
     {
         "title": "Ruko Gandeng Murah Strategis di Abian Base, Mengwi",
@@ -9121,8 +9121,8 @@
                 "formatted_value": "Mengwi"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.749638557434082
+        "predicted_label": "expensive",
+        "predicted_score": 0.8009858727455139
     },
     {
         "title": "Ruko Baru Murah di Gatsu Tengah, Denpasar Barat",
@@ -9161,8 +9161,8 @@
                 "formatted_value": "Gatsu Tengah"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7396613955497742
+        "predicted_label": "expensive",
+        "predicted_score": 0.8294890522956848
     },
     {
         "title": "Tanah dijual dibawah harga pasaran dekat pantai pecatu Bali",
@@ -9201,8 +9201,8 @@
                 "formatted_value": "Pecatu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7128000259399414
+        "predicted_label": "expensive",
+        "predicted_score": 0.8431743383407593
     },
     {
         "title": "Tanah Jalan Utama Tukad Badung Renon Denpasar Cocok buat usaha",
@@ -9227,8 +9227,8 @@
                 "key_name": "Tipe"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7403442859649658
+        "predicted_label": "expensive",
+        "predicted_score": 0.5517340898513794
     },
     {
         "title": "VILLA DILINGKUNGAN TENANG",
@@ -9342,8 +9342,8 @@
                 "formatted_value": "Kerobokan, Kuta Utara, Badung, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.612389862537384
+        "predicted_label": "expensive",
+        "predicted_score": 0.8208001255989075
     },
     {
         "title": "Tanah Kapling bypass Soekarno jln pura peneduhan cash kredit 7kapling",
@@ -9382,8 +9382,8 @@
                 "formatted_value": "Bypass sukarno br anyar kediri tabanan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6757646203041077
+        "predicted_label": "expensive",
+        "predicted_score": 0.6188945174217224
     },
     {
         "title": "Toko Dan Gudang Murah di Cokroaminoto",
@@ -9422,8 +9422,8 @@
                 "formatted_value": "Cokroaminoto"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7408624291419983
+        "predicted_label": "expensive",
+        "predicted_score": 0.8326174020767212
     },
     {
         "title": "Luxurious Villa for Undermarket Price, Canggu",
@@ -9504,8 +9504,8 @@
                 "formatted_value": "Berawa, Canggu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.9387192130088806
+        "predicted_label": "expensive",
+        "predicted_score": 0.7555442452430725
     },
     {
         "title": "Dijual tanah strategis",
@@ -9544,8 +9544,8 @@
                 "formatted_value": "Jatitujuh"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6626030206680298
+        "predicted_label": "expensive",
+        "predicted_score": 0.7986870408058167
     },
     {
         "title": "Villa Exclusive di Babakan Canggu",
@@ -9633,7 +9633,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5354121327400208
+        "predicted_score": 0.8450666666030884
     },
     {
         "title": "Dijual tanah super murah lokasi ubud lodtunduh gianyar bali",
@@ -9655,8 +9655,8 @@
                 "formatted_value": "2828"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7355692386627197
+        "predicted_label": "expensive",
+        "predicted_score": 0.5229435563087463
     },
     {
         "title": "Sewa Harian Villa 5 Kamar Tidur di Bedugul Bali - BVI3956",
@@ -9771,7 +9771,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5170210599899292
+        "predicted_score": 0.7770381569862366
     },
     {
         "title": "Rumah Murah di Gatsu, Denpasar",
@@ -9834,8 +9834,8 @@
                 "formatted_value": "SHM - Sertifikat Hak Milik"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6343090534210205
+        "predicted_label": "expensive",
+        "predicted_score": 0.6533887982368469
     },
     {
         "title": "Rumah Hitung Tanah Murah di Renon",
@@ -9906,8 +9906,8 @@
                 "formatted_value": "Renon"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6775308847427368
+        "predicted_label": "expensive",
+        "predicted_score": 0.7527417540550232
     },
     {
         "title": "rumah murah bali nusa dua jimbaran",
@@ -9994,8 +9994,8 @@
                 "formatted_value": "Nusa Dua jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6483514308929443
+        "predicted_label": "expensive",
+        "predicted_score": 0.9328435063362122
     },
     {
         "title": "Rent Luxury Beach Front Villa in Tanah Lot Bali - BVI24632",
@@ -10109,8 +10109,8 @@
                 "formatted_value": "Tanah Lot - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5640514492988586
+        "predicted_label": "expensive",
+        "predicted_score": 0.689981997013092
     },
     {
         "title": "For Rent 8 Bedrooms Beach Front Villa in Tabanan Bali - BVI29636",
@@ -10224,8 +10224,8 @@
                 "formatted_value": "Tabanan - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7486311793327332
+        "predicted_label": "expensive",
+        "predicted_score": 0.621763288974762
     },
     {
         "title": "Rent 12 Bedroom Luxury Villa in Kerobokan Bali - BVI23236",
@@ -10340,7 +10340,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.7043911814689636
+        "predicted_score": 0.8000887632369995
     },
     {
         "title": "Sewa Villa Mewah 4 Kamar di Canggu Bali - BVI30877",
@@ -10455,7 +10455,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5628458261489868
+        "predicted_score": 0.6294683814048767
     },
     {
         "title": "Rent 2 Bedroom Villa in Legian Bali - BVI30933",
@@ -10569,8 +10569,8 @@
                 "formatted_value": "Legian - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5798858404159546
+        "predicted_label": "expensive",
+        "predicted_score": 0.6723560690879822
     },
     {
         "title": "Rent 5 Bedrooms Luxury Villa in Legian Bali - BVI30950",
@@ -10685,7 +10685,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.7910016179084778
+        "predicted_score": 0.6321728229522705
     },
     {
         "title": "For Rent 2 Bedroom Pool Villa Located in Seminyak Bali - BVI32413",
@@ -10799,8 +10799,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7412771582603455
+        "predicted_label": "expensive",
+        "predicted_score": 0.5931145548820496
     },
     {
         "title": "Dijual Tanah  Murah 3,6 Are Penatih View Sungai cocok  Rumah dan Villa",
@@ -10822,8 +10822,8 @@
                 "formatted_value": "360"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7403412461280823
+        "predicted_label": "expensive",
+        "predicted_score": 0.5225384831428528
     },
     {
         "title": "Rumah modern di jual, full furniture (furniture merk terbaik)",
@@ -10928,8 +10928,8 @@
                 "formatted_value": "Taman Griya Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6101303696632385
+        "predicted_label": "expensive",
+        "predicted_score": 0.6940528154373169
     },
     {
         "title": "Bangunan villa yg nyaman tersedia rumah pembantu di belakang villa",
@@ -11049,8 +11049,8 @@
                 "formatted_value": "Jl taman baruna bouganvill II NO.04 jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6487164497375488
+        "predicted_label": "expensive",
+        "predicted_score": 0.8263915181159973
     },
     {
         "title": "Villa 2 Bedrooms Nyang-Nyang Uluwatu",
@@ -11123,8 +11123,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7332707047462463
+        "predicted_label": "expensive",
+        "predicted_score": 0.7061164379119873
     },
     {
         "title": "Disewakan Villa 2 Kamar di Jimbaran Bali - BVI31702",
@@ -11238,8 +11238,8 @@
                 "formatted_value": "Jimbaran - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6157490015029907
+        "predicted_label": "expensive",
+        "predicted_score": 0.6037355661392212
     },
     {
         "title": "Sewa Villa Pantai 2 Kamar Tidur di Sanur Bali - BVI32275",
@@ -11353,8 +11353,8 @@
                 "formatted_value": "Sanur - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6665334105491638
+        "predicted_label": "expensive",
+        "predicted_score": 0.5926870703697205
     },
     {
         "title": "RUMAH LANTAI 2 TAHAP FINISHING 950 JT Nego",
@@ -11442,7 +11442,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5375069975852966
+        "predicted_score": 0.8816779255867004
     },
     {
         "title": "5 Kamar Tidur Villa di Seminyak - BVI32353",
@@ -11556,8 +11556,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6335310339927673
+        "predicted_label": "expensive",
+        "predicted_score": 0.6708208322525024
     },
     {
         "title": "Sewa Villa 4 Kamar Tidur di Sanur Bali - BVI32257",
@@ -11671,8 +11671,8 @@
                 "formatted_value": "Sanur - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5307822823524475
+        "predicted_label": "expensive",
+        "predicted_score": 0.6407243013381958
     },
     {
         "title": "Rent 7 Bedrooms Luxury Villa in Canggu Bali - BVI23575",
@@ -11787,7 +11787,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.6675148606300354
+        "predicted_score": 0.6260342001914978
     },
     {
         "title": "Disewakan Villa 11 Kamar Tidur Mewah dan Bagus di Sanur - BVI31025",
@@ -11901,8 +11901,8 @@
                 "formatted_value": "Sanur - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5491726398468018
+        "predicted_label": "expensive",
+        "predicted_score": 0.7686523795127869
     },
     {
         "title": "Sewa Villa Bagus, 7 Kamar Tidur di Seminyak Bali - BVI32208",
@@ -12016,8 +12016,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6248452663421631
+        "predicted_label": "expensive",
+        "predicted_score": 0.7241886258125305
     },
     {
         "title": "Disewakan Villa Mewah di Pinggir Pantai Bali - BVI31068",
@@ -12131,8 +12131,8 @@
                 "formatted_value": "Klungkung - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5878387689590454
+        "predicted_label": "expensive",
+        "predicted_score": 0.8290821313858032
     },
     {
         "title": "Sewa Villa Modern Minimalis di Kuta Bali - BVI28215",
@@ -12246,8 +12246,8 @@
                 "formatted_value": "Kuta - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5069074630737305
+        "predicted_label": "expensive",
+        "predicted_score": 0.633009135723114
     },
     {
         "title": "5 Bedroom Holiday Villa in Seminyak Bali - BVI31228",
@@ -12362,7 +12362,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5354825258255005
+        "predicted_score": 0.6436348557472229
     },
     {
         "title": "rumah murah bali nusa dusa jimbaran",
@@ -12455,8 +12455,8 @@
                 "formatted_value": "nusa dua jimbaran gwk"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6665070056915283
+        "predicted_label": "expensive",
+        "predicted_score": 0.8297262787818909
     },
     {
         "title": "Rent 5 Bedroom Luxury Villa in Seminyak Bali - BVI31415",
@@ -12571,7 +12571,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5795636773109436
+        "predicted_score": 0.6354440450668335
     },
     {
         "title": "Sewa Villa 4 Kamar Tidur di Ubud Bali - BVI31902",
@@ -12686,7 +12686,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5126115083694458
+        "predicted_score": 0.6276339888572693
     },
     {
         "title": "Disewakan Villa Liburan 2 Kamar Tidur di Seminyak Bali - BVI31928",
@@ -12800,8 +12800,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6707417964935303
+        "predicted_label": "expensive",
+        "predicted_score": 0.7405146360397339
     },
     {
         "title": "Villa Mewah 3 Kamar disewakan harian di Seminyak Bali - BVI20119",
@@ -12915,8 +12915,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5945714712142944
+        "predicted_label": "expensive",
+        "predicted_score": 0.8223037123680115
     },
     {
         "title": "LAND FOR LEASE CLOSE TO THE BEACH SESEH",
@@ -12938,8 +12938,8 @@
                 "formatted_value": "2200"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6356329321861267
+        "predicted_label": "expensive",
+        "predicted_score": 0.6074264645576477
     },
     {
         "title": "Dikontrakan rumah tabanan",
@@ -13023,8 +13023,8 @@
                 "formatted_value": "Jl baypas ir soekarno kediri"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5420359373092651
+        "predicted_label": "expensive",
+        "predicted_score": 0.9377462267875671
     },
     {
         "title": "Dijual rumah strategis",
@@ -13111,8 +13111,8 @@
                 "formatted_value": "Jalan bpu pudak sari no 19"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6287710666656494
+        "predicted_label": "expensive",
+        "predicted_score": 0.9212085604667664
     },
     {
         "title": "Jual Rumah Tinggal",
@@ -13176,8 +13176,8 @@
                 "formatted_value": "Perum Corry Nuansa, Jl.Nuansa Utama.7/15.Jimbaran.Kute -Selatan.Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7127646207809448
+        "predicted_label": "expensive",
+        "predicted_score": 0.7652134895324707
     },
     {
         "title": "Rent 3 Bedroom Luxury Villa in Seminyak Bali - BVI20137",
@@ -13292,7 +13292,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5807687640190125
+        "predicted_score": 0.6424582600593567
     },
     {
         "title": "11 Bedroom Villa in Seminyak Bali Rent Daily - BVI21586",
@@ -13406,8 +13406,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6178333163261414
+        "predicted_label": "expensive",
+        "predicted_score": 0.7023491859436035
     },
     {
         "title": "Disewakan Harian Villa 1 Bedroom di Sanur Bali - BVI48493",
@@ -13521,8 +13521,8 @@
                 "formatted_value": "Sanur - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6636855006217957
+        "predicted_label": "expensive",
+        "predicted_score": 0.5826842784881592
     },
     {
         "title": "Sewa Harian Villa Modern 1 Kamar di Sanur Bali - BVI48481",
@@ -13633,8 +13633,8 @@
                 "formatted_value": "Sanur - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5666826367378235
+        "predicted_label": "expensive",
+        "predicted_score": 0.6560161113739014
     },
     {
         "title": "Disewakan Harian Villa Bagus 2 Kamar di Seminyak Bali - BVI48409",
@@ -13751,8 +13751,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5947850942611694
+        "predicted_label": "expensive",
+        "predicted_score": 0.8370761871337891
     },
     {
         "title": "Disewakan Harian Villa 2 Kamar di Jimbaran Bali - BVI48326",
@@ -13869,8 +13869,8 @@
                 "formatted_value": "Jimbaran - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6207010746002197
+        "predicted_label": "expensive",
+        "predicted_score": 0.7760379910469055
     },
     {
         "title": "kedampang kerobokan!! 5 are tanah di jual",
@@ -13892,8 +13892,8 @@
                 "formatted_value": "500"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6423746943473816
+        "predicted_label": "expensive",
+        "predicted_score": 0.6731986403465271
     },
     {
         "title": "Vila Bambu Jatiluwih",
@@ -13989,8 +13989,8 @@
                 "formatted_value": "Tabanan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6179313659667969
+        "predicted_label": "expensive",
+        "predicted_score": 0.8217530846595764
     },
     {
         "title": "villa for lease",
@@ -14045,7 +14045,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.7903992533683777
+        "predicted_score": 0.5007792711257935
     },
     {
         "title": "Dijual Rumah View Sawah di Tanah Lot - 20 Menit ke Pererenan",
@@ -14126,8 +14126,8 @@
                 "formatted_value": "Tanah Lot Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6128215789794922
+        "predicted_label": "expensive",
+        "predicted_score": 0.8118751645088196
     },
     {
         "title": "Dijual Tanah Ls 1974m2 untuk USAHA Jln Mertasari Sidakarya",
@@ -14166,8 +14166,8 @@
                 "formatted_value": "Jln Utama Mertasari Sidakarya Denpasar Selatan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7397220730781555
+        "predicted_label": "expensive",
+        "predicted_score": 0.6872352361679077
     },
     {
         "title": "canggu villa baru istimewa  !! untuk di jual",
@@ -14221,8 +14221,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7191491723060608
+        "predicted_label": "expensive",
+        "predicted_score": 0.590690553188324
     },
     {
         "title": "Dijual rumah dekat Toyaning Ungasan Badung Bali",
@@ -14309,8 +14309,8 @@
                 "formatted_value": "Jln langui - ungasan kuta selatan Badung Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5642634034156799
+        "predicted_label": "expensive",
+        "predicted_score": 0.809049129486084
     },
     {
         "title": "JUAL RESTO DAN KEBUN STRAWBERRY BALI LOKASI STRATEGIS",
@@ -14349,8 +14349,8 @@
                 "formatted_value": "Jalan raya denpasar bedugul banjar taman tanda baturiti"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6919882297515869
+        "predicted_label": "expensive",
+        "predicted_score": 0.6217983961105347
     },
     {
         "title": "Di jual tanah & gudang jalan Utama Gunung Soputan, Denpasar, Bali",
@@ -14389,8 +14389,8 @@
                 "formatted_value": "Jalan Utama Gunung Soputan, Denpasar, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6780999898910522
+        "predicted_label": "expensive",
+        "predicted_score": 0.620299220085144
     },
     {
         "title": "MURAH DIJUAL TANAH SIAP BANGUN LOKASI DENPASAR UTARA BALI",
@@ -14413,7 +14413,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.7340818643569946
+        "predicted_score": 0.5035718083381653
     },
     {
         "title": "Canggu Villa For Sale, Hanya 200 meter ke pantai echo beach",
@@ -14470,8 +14470,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.8042887449264526
+        "predicted_label": "expensive",
+        "predicted_score": 0.6729505062103271
     },
     {
         "title": "DIJUAL TANAH 100m2 di Jimbaran-Bali",
@@ -14510,8 +14510,8 @@
                 "formatted_value": "Puri Jimbaran, Kuta Selatan, Badung, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6777019500732422
+        "predicted_label": "expensive",
+        "predicted_score": 0.5547654628753662
     },
     {
         "title": "Disc -25% Melasti Cliff front 56850m2 next to Bayan Tree",
@@ -14550,8 +14550,8 @@
                 "formatted_value": "Tebing pantai melasti"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6314415335655212
+        "predicted_label": "expensive",
+        "predicted_score": 0.7114400267601013
     },
     {
         "title": "Tanag 1.4 Hektar deretan Coca cola Mengwi depan Coklat POD",
@@ -14590,8 +14590,8 @@
                 "formatted_value": "Mengwi"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6543380618095398
+        "predicted_label": "expensive",
+        "predicted_score": 0.8456793427467346
     },
     {
         "title": "VILLA MODERN LOKASI STRATEGIS AREA SEMINYAK",
@@ -14658,8 +14658,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7466508150100708
+        "predicted_label": "expensive",
+        "predicted_score": 0.6390787959098816
     },
     {
         "title": "Minimalis house in Pecatu graha for sale",
@@ -14723,8 +14723,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7380344271659851
+        "predicted_label": "expensive",
+        "predicted_score": 0.7608463764190674
     },
     {
         "title": "Tanah Jalan Utama Denpasar Bedugul Desa Mekarsari Baturiti Tabanan",
@@ -14746,8 +14746,8 @@
                 "formatted_value": "300"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7393202781677246
+        "predicted_label": "expensive",
+        "predicted_score": 0.5497549772262573
     },
     {
         "title": "Villa kosep pedesaan Bali di Ubud",
@@ -14823,8 +14823,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7893192172050476
+        "predicted_label": "expensive",
+        "predicted_score": 0.6129039525985718
     },
     {
         "title": "Tanah kawasan elit di Mumbul dekat Nusa Dua Bali",
@@ -14863,8 +14863,8 @@
                 "formatted_value": "Mumbul, Badung, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7013278007507324
+        "predicted_label": "expensive",
+        "predicted_score": 0.6924927234649658
     },
     {
         "title": "Tanah view laut dan sawah dekat pantai Kelecung Tabanan Bali",
@@ -14903,8 +14903,8 @@
                 "formatted_value": "Kelecung, Tabanan, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.689565896987915
+        "predicted_label": "expensive",
+        "predicted_score": 0.6233747005462646
     },
     {
         "title": "Tanah dekat Nourish Cafe Pizzeria dan jalan utama Uluwatu Bali",
@@ -14943,8 +14943,8 @@
                 "formatted_value": "Pecatu, Badung, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6921661496162415
+        "predicted_label": "expensive",
+        "predicted_score": 0.6697941422462463
     },
     {
         "title": "Ocean View Villa For Sale at Goa-Gong",
@@ -15011,8 +15011,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6174362897872925
+        "predicted_label": "expensive",
+        "predicted_score": 0.7624977231025696
     },
     {
         "title": "Tanah 32,5 are sebelah Pop hotel Teuku Umar, jalan utama Teuku Umar",
@@ -15051,8 +15051,8 @@
                 "formatted_value": "Jl Teuku Umar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6947105526924133
+        "predicted_label": "expensive",
+        "predicted_score": 0.7280100584030151
     },
     {
         "title": "Di sewakan 25 th new brand villa dekat GWK ungasan Badung Bali",
@@ -15148,8 +15148,8 @@
                 "formatted_value": "Jln . Kendedes - ungasan kuta selatan Badung Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5581968426704407
+        "predicted_label": "expensive",
+        "predicted_score": 0.6952529549598694
     },
     {
         "title": "Di kontrakan rumah strategis lokasi Panjer , Denpasar, Bali",
@@ -15203,8 +15203,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7170916199684143
+        "predicted_label": "expensive",
+        "predicted_score": 0.6032273769378662
     },
     {
         "title": "Jual tanah tukad balian renon lt 133 m2",
@@ -15226,8 +15226,8 @@
                 "formatted_value": "133"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6332738399505615
+        "predicted_label": "expensive",
+        "predicted_score": 0.6028358340263367
     },
     {
         "title": "Di kontrakan rumah strategis lokasi Panjer, Denpasar, Bali",
@@ -15309,7 +15309,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5489608645439148
+        "predicted_score": 0.9289606213569641
     },
     {
         "title": "tanah dikawasan tukad yeh aya renon denpasar",
@@ -15331,8 +15331,8 @@
                 "formatted_value": "275"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7476762533187866
+        "predicted_label": "expensive",
+        "predicted_score": 0.5329988598823547
     },
     {
         "title": "Rumah MURAH KOta GIANYAR Bali #1",
@@ -15425,8 +15425,8 @@
                 "formatted_value": "Batubulan Gianyar Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6528209447860718
+        "predicted_label": "expensive",
+        "predicted_score": 0.8603692650794983
     },
     {
         "title": "LOVINA Villa Nice View",
@@ -15519,8 +15519,8 @@
                 "formatted_value": "Desa Kayuputih Buleleng Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6136527061462402
+        "predicted_label": "expensive",
+        "predicted_score": 0.8357149362564087
     },
     {
         "title": "VILLA DI SEWAKAN JANGKA PANJANG (BUKIT)",
@@ -15631,8 +15631,8 @@
                 "formatted_value": "Samani Recidance Uluwatu, Pecatu (Bukit)"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5909608602523804
+        "predicted_label": "expensive",
+        "predicted_score": 0.8135219216346741
     },
     {
         "title": "DIJUAL CEPAT 2 UNIT VILLA DI LOVINA - BALI UTARA - April 2023",
@@ -15717,8 +15717,8 @@
                 "formatted_value": "Jln.Lotus M15, Dencarik -Banjar, Kab.Buleleng"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6516596674919128
+        "predicted_label": "expensive",
+        "predicted_score": 0.6626467704772949
     },
     {
         "title": "SISA 2! Tanah Kavling Penebel Tabanan Sawah Indah Terasering Cicil 12x",
@@ -15757,8 +15757,8 @@
                 "formatted_value": "Penebel"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5109503865242004
+        "predicted_label": "expensive",
+        "predicted_score": 0.8747463226318359
     },
     {
         "title": "Disewakan Toko Sebelah ACK Tukad Buaji, Dekat Masjid Sadar",
@@ -15808,7 +15808,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.7684239149093628
+        "predicted_score": 0.5277673602104187
     },
     {
         "title": "Tanah Pering Gianyar #BU",
@@ -15847,8 +15847,8 @@
                 "formatted_value": "Desa Pering Kecamatan Blahbatuh Gianyar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.708497941493988
+        "predicted_label": "expensive",
+        "predicted_score": 0.6895569562911987
     },
     {
         "title": "Sading Tanah Murah",
@@ -15887,8 +15887,8 @@
                 "formatted_value": "Sading Mengwi Badung Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7072027325630188
+        "predicted_label": "expensive",
+        "predicted_score": 0.7993630170822144
     },
     {
         "title": "Rumah IDAMAN Keluarga SEMUA",
@@ -15981,8 +15981,8 @@
                 "formatted_value": "Ki Barak Panji Sukasada Buleleng"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7129872441291809
+        "predicted_label": "expensive",
+        "predicted_score": 0.75633305311203
     },
     {
         "title": "Dijual tanah 1 are",
@@ -16004,8 +16004,8 @@
                 "formatted_value": "100"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6172899603843689
+        "predicted_label": "expensive",
+        "predicted_score": 0.5471056699752808
     },
     {
         "title": "Exclusive Rumah Mewah JIMBARAN",
@@ -16104,8 +16104,8 @@
                 "formatted_value": "Taman Griya Jimbaran Badung Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5552257895469666
+        "predicted_label": "expensive",
+        "predicted_score": 0.6558029651641846
     },
     {
         "title": "Ruko BATURITI Pinggir Jalan (Tabanan)",
@@ -16163,8 +16163,8 @@
                 "formatted_value": "Baturiti Tabanan Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7575148940086365
+        "predicted_label": "expensive",
+        "predicted_score": 0.8268375992774963
     },
     {
         "title": "Rumah Lantai.2 Siap Huni Baru Gress Dkt Mcd Sesetan Denpasar.",
@@ -16222,8 +16222,8 @@
                 "formatted_value": "Jl batas dukuh sari sesetan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6424531936645508
+        "predicted_label": "expensive",
+        "predicted_score": 0.7132683396339417
     },
     {
         "title": "Di jual tanah strategis jalan Gandapura, Kesiman, Denpasar,Bali",
@@ -16245,8 +16245,8 @@
                 "formatted_value": "425"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7711407542228699
+        "predicted_label": "expensive",
+        "predicted_score": 0.5696598291397095
     },
     {
         "title": "Rumah Lantai.2 Super Exclusive Nusa Dua Bali",
@@ -16310,8 +16310,8 @@
                 "formatted_value": "Jl Taman Giri Mumbul Nusa Dua Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.718888521194458
+        "predicted_label": "expensive",
+        "predicted_score": 0.555799663066864
     },
     {
         "title": "Rumah lantai 2 baru dkt mcd sesetan Denpasar Bali",
@@ -16369,8 +16369,8 @@
                 "formatted_value": "Jl perkutut sesetan Denpasar Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6787909269332886
+        "predicted_label": "expensive",
+        "predicted_score": 0.7005975842475891
     },
     {
         "title": "dijual tanah pinggir sungai dekat pantai saba",
@@ -16392,8 +16392,8 @@
                 "formatted_value": "1512"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7261345982551575
+        "predicted_label": "expensive",
+        "predicted_score": 0.5596817135810852
     },
     {
         "title": "Tanah MURAH arah BEDUGUL (pinggir jalan)",
@@ -16432,8 +16432,8 @@
                 "formatted_value": "Jln. Tabanan Bedugul Desa Mekarsari Tabanan Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.77545166015625
+        "predicted_label": "expensive",
+        "predicted_score": 0.6557961106300354
     },
     {
         "title": "Ruko Ready dekat Seminyak Kuta Denpasar Bali",
@@ -16494,8 +16494,8 @@
                 "formatted_value": "Jl Teuku Umar Barat Denpasar Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7473470568656921
+        "predicted_label": "expensive",
+        "predicted_score": 0.6913912296295166
     },
     {
         "title": "Tanah KOSONG TAbanan Bedugul",
@@ -16534,8 +16534,8 @@
                 "formatted_value": "Jln. Bedugul Desa Mekarsari Tabanan Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7400530576705933
+        "predicted_label": "expensive",
+        "predicted_score": 0.6231043934822083
     },
     {
         "title": "Promo Rumah Murah Kawasan Elite Renon Denpasar Bali",
@@ -16596,8 +16596,8 @@
                 "formatted_value": "Jalan Jayagiri Renon Denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7011014223098755
+        "predicted_label": "expensive",
+        "predicted_score": 0.7108978629112244
     },
     {
         "title": "Di jual tanah strategis jalan Gandapura, Denpasar, Bali",
@@ -16636,8 +16636,8 @@
                 "formatted_value": "Jalan Gandapura, Tohpati, Denpasar, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.721195638179779
+        "predicted_label": "expensive",
+        "predicted_score": 0.6914086937904358
     },
     {
         "title": "Amazing villa in Uluwatu",
@@ -16738,7 +16738,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.7480668425559998
+        "predicted_score": 0.8035293221473694
     },
     {
         "title": "Jual Murah Rumah Tabanan Bali Royal Griya Loka",
@@ -16809,8 +16809,8 @@
                 "formatted_value": "Royal Griya Loka Tabanan Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5751816034317017
+        "predicted_label": "expensive",
+        "predicted_score": 0.6081352829933167
     },
     {
         "title": "Tanah 5 Are di pinggir Jalan Utama Singapadu Kaler Ubud",
@@ -16832,8 +16832,8 @@
                 "formatted_value": "500"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7446883320808411
+        "predicted_label": "expensive",
+        "predicted_score": 0.5851250290870667
     },
     {
         "title": "Dikontrakkan Tanah beserta Bangunan seluas 3 are",
@@ -16872,8 +16872,8 @@
                 "formatted_value": "LC 8 Baktiseraga Buleleng"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6258587837219238
+        "predicted_label": "expensive",
+        "predicted_score": 0.6224105358123779
     },
     {
         "title": "Rumah exclusive lantai.2 dkt Renon Denpasar Bali",
@@ -16934,8 +16934,8 @@
                 "formatted_value": "Jl Kertaraharja Sidakarya Denpasar Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7029272317886353
+        "predicted_label": "expensive",
+        "predicted_score": 0.6915833950042725
     },
     {
         "title": "dijual tanah premium ppinggir jalan tirta tawar ubud dekat sentral",
@@ -16958,7 +16958,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.6340457201004028
+        "predicted_score": 0.5720441341400146
     },
     {
         "title": "Tanah dekat destinasi wisata garuda Wisnu kencana Ungasan Badung Bali",
@@ -16997,8 +16997,8 @@
                 "formatted_value": "Goa gong atas Ungasan kuta selatan Badung Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6767327785491943
+        "predicted_label": "expensive",
+        "predicted_score": 0.6999226808547974
     },
     {
         "title": "Dikontrakkan tanah dekat pantai cemongkak & Bingin Pecatu Badung Bali",
@@ -17037,8 +17037,8 @@
                 "formatted_value": "Jln cemongkak Pecatu kuta Selatan Badung Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7243044972419739
+        "predicted_label": "expensive",
+        "predicted_score": 0.7010931968688965
     },
     {
         "title": "disewakan tanah 6 are di sentral ubud",
@@ -17060,8 +17060,8 @@
                 "formatted_value": "600"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6514489650726318
+        "predicted_label": "expensive",
+        "predicted_score": 0.6295040845870972
     },
     {
         "title": "Villa ocean view jimbaran",
@@ -17166,8 +17166,8 @@
                 "formatted_value": "Jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5305450558662415
+        "predicted_label": "expensive",
+        "predicted_score": 0.6717475056648254
     },
     {
         "title": "Villa Berawa Canggu Badung Bali",
@@ -17269,8 +17269,8 @@
                 "formatted_value": "Berawa"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5326330065727234
+        "predicted_label": "expensive",
+        "predicted_score": 0.8329381942749023
     },
     {
         "title": "Villa Ocean View Pecatu Jimbaran",
@@ -17382,7 +17382,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5245366096496582
+        "predicted_score": 0.7472822666168213
     },
     {
         "title": "Tanah uluwatu jimbaran badung",
@@ -17421,8 +17421,8 @@
                 "formatted_value": "Jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6640427708625793
+        "predicted_label": "expensive",
+        "predicted_score": 0.8091570734977722
     },
     {
         "title": "Hotel Bintang 4 sunset road kuta",
@@ -17507,8 +17507,8 @@
                 "formatted_value": "Kuta"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5774973034858704
+        "predicted_label": "expensive",
+        "predicted_score": 0.7342495918273926
     },
     {
         "title": "Tanah lost pantai Saba gianyar",
@@ -17547,8 +17547,8 @@
                 "formatted_value": "Gianyar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6824226975440979
+        "predicted_label": "expensive",
+        "predicted_score": 0.8085584044456482
     },
     {
         "title": "Villa Jimbaran Badung bali",
@@ -17650,8 +17650,8 @@
                 "formatted_value": "Jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5609762668609619
+        "predicted_label": "expensive",
+        "predicted_score": 0.7919231057167053
     },
     {
         "title": "Ruko pusat kota Teuku Umar denpasar",
@@ -17703,8 +17703,8 @@
                 "formatted_value": "Teuku Umar denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7500327825546265
+        "predicted_label": "expensive",
+        "predicted_score": 0.7279911637306213
     },
     {
         "title": "Tanah Berawa Canggu bali",
@@ -17743,8 +17743,8 @@
                 "formatted_value": "Berawa"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7075897455215454
+        "predicted_label": "expensive",
+        "predicted_score": 0.8224680423736572
     },
     {
         "title": "Small Plot Commercial Land Main Roads Canggu Bali",
@@ -17783,8 +17783,8 @@
                 "formatted_value": "Canggu Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6683682799339294
+        "predicted_label": "expensive",
+        "predicted_score": 0.73113614320755
     },
     {
         "title": "Tanah Berawa Canggu badung",
@@ -17823,8 +17823,8 @@
                 "formatted_value": "Berawa"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7204552292823792
+        "predicted_label": "expensive",
+        "predicted_score": 0.8203489780426025
     },
     {
         "title": "DI JUAL CEPAT RUMAH LUAS TANPA PERANTARA!!",
@@ -17923,8 +17923,8 @@
                 "formatted_value": "Jalan Dewa Putu Kerta, Gg. Nusa Indah II, No.2X, Sukasada, Buleleng, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5974848866462708
+        "predicted_label": "expensive",
+        "predicted_score": 0.7688238024711609
     },
     {
         "title": "CONDOTEL RAMADA ENCORE BALI SEMINYAK",
@@ -18011,8 +18011,8 @@
                 "formatted_value": "Jl saraswati bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6229544281959534
+        "predicted_label": "expensive",
+        "predicted_score": 0.9155782461166382
     },
     {
         "title": "SEMPOL PERERENAN",
@@ -18051,8 +18051,8 @@
                 "formatted_value": "Jl. Blulang yeh, sempol prerenan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7210044860839844
+        "predicted_label": "expensive",
+        "predicted_score": 0.6310688257217407
     },
     {
         "title": "DIJUAL TANAH STRATEGIS DI JALAN AHMAD YANI BARAT COCOK UNTUK USAHA",
@@ -18091,8 +18091,8 @@
                 "formatted_value": "Jl ahmad yani barat no 202"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7214637398719788
+        "predicted_label": "expensive",
+        "predicted_score": 0.6078722476959229
     },
     {
         "title": "Tanah Padang linjong Canggu badung",
@@ -18131,8 +18131,8 @@
                 "formatted_value": "Canggu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7114485502243042
+        "predicted_label": "expensive",
+        "predicted_score": 0.8174369931221008
     },
     {
         "title": "Tanah danau Beratan bedugul tabanan",
@@ -18171,8 +18171,8 @@
                 "formatted_value": "Bedugul"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6804701685905457
+        "predicted_label": "expensive",
+        "predicted_score": 0.8369867205619812
     },
     {
         "title": "Tanah Jimbaran badung bali",
@@ -18211,8 +18211,8 @@
                 "formatted_value": "Jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.70354163646698
+        "predicted_label": "expensive",
+        "predicted_score": 0.8514099717140198
     },
     {
         "title": "Tanah 2 are di Padangsambian Denpasar Bali",
@@ -18251,8 +18251,8 @@
                 "formatted_value": "Padangsambian"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6781777143478394
+        "predicted_label": "expensive",
+        "predicted_score": 0.8114631175994873
     },
     {
         "title": "Villa Berawa Canggu Badung bali",
@@ -18352,7 +18352,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5567222237586975
+        "predicted_score": 0.8829771876335144
     },
     {
         "title": "Dijual tanah 14 are di jl pantai Nyanyi dkt Cemagi,Mengening,Tanah Lot",
@@ -18391,8 +18391,8 @@
                 "formatted_value": "jalan pantai Nyanyi"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6543689370155334
+        "predicted_label": "expensive",
+        "predicted_score": 0.6582147479057312
     },
     {
         "title": "Di jual tanah premium jalan Raya Muding Mundeh, Badung, Bali",
@@ -18414,8 +18414,8 @@
                 "formatted_value": "600"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.552848219871521
+        "predicted_label": "expensive",
+        "predicted_score": 0.5765637755393982
     },
     {
         "title": "Tanah goa gong Jimbaran Badung bali",
@@ -18454,8 +18454,8 @@
                 "formatted_value": "Goa gong"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6638345718383789
+        "predicted_label": "expensive",
+        "predicted_score": 0.8045551180839539
     },
     {
         "title": "Jual Rumah Murah Pemogan Denpasar selatan Bali",
@@ -18548,8 +18548,8 @@
                 "formatted_value": "Pemogan densel"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6294264197349548
+        "predicted_label": "expensive",
+        "predicted_score": 0.8336173295974731
     },
     {
         "title": "Villa ocean view jimbaran badung",
@@ -18660,8 +18660,8 @@
                 "formatted_value": "Jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6120825409889221
+        "predicted_label": "expensive",
+        "predicted_score": 0.7225542664527893
     },
     {
         "title": "Villa ungasan jimbaran badung",
@@ -18766,8 +18766,8 @@
                 "formatted_value": "Jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6238277554512024
+        "predicted_label": "expensive",
+        "predicted_score": 0.6185991168022156
     },
     {
         "title": "Rumah + toko sunset road Kuta badung",
@@ -18860,8 +18860,8 @@
                 "formatted_value": "Sunset road"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5560885071754456
+        "predicted_label": "expensive",
+        "predicted_score": 0.9469434022903442
     },
     {
         "title": "Villa beach front nusa dua badung",
@@ -18964,7 +18964,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5001859664916992
+        "predicted_score": 0.7970589995384216
     },
     {
         "title": "Villa beach front pererenan canggu badung",
@@ -19069,8 +19069,8 @@
                 "formatted_value": "Canggu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5621325969696045
+        "predicted_label": "expensive",
+        "predicted_score": 0.7991406321525574
     },
     {
         "title": "Tanah Canggu Badung bali",
@@ -19109,8 +19109,8 @@
                 "formatted_value": "Munduk kedungu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6734607219696045
+        "predicted_label": "expensive",
+        "predicted_score": 0.7944232225418091
     },
     {
         "title": "Tanah pantai Soka tabanan",
@@ -19149,8 +19149,8 @@
                 "formatted_value": "Tabanan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7135841846466064
+        "predicted_label": "expensive",
+        "predicted_score": 0.85206538438797
     },
     {
         "title": "Villa Jimbaran Tiara Nusa Hill Full Panoramic voew Mrs luk",
@@ -19264,8 +19264,8 @@
                 "formatted_value": "Tiara nusa jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5647849440574646
+        "predicted_label": "expensive",
+        "predicted_score": 0.7985723614692688
     },
     {
         "title": "Villa Brand New Area kawasan Bantan kangin Tibubeneng Canggu - Vshe",
@@ -19335,8 +19335,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7626540064811707
+        "predicted_label": "expensive",
+        "predicted_score": 0.6686696410179138
     },
     {
         "title": "Tanah 2 Are di Ubud Lodtunduh View perkebunan dan lingkungan Villa",
@@ -19358,8 +19358,8 @@
                 "formatted_value": "200"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7531774640083313
+        "predicted_label": "expensive",
+        "predicted_score": 0.5573782324790955
     },
     {
         "title": "Tanah 4900m2 Jalan Utama Sanur Akses 3 jalan Paling Murah",
@@ -19398,8 +19398,8 @@
                 "formatted_value": "Sanur"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6485167145729065
+        "predicted_label": "expensive",
+        "predicted_score": 0.8110515475273132
     },
     {
         "title": "Villa Batubelig Kerobokan Badung",
@@ -19504,8 +19504,8 @@
                 "formatted_value": "Kerobokan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.576208233833313
+        "predicted_label": "expensive",
+        "predicted_score": 0.8113763928413391
     },
     {
         "title": "Tanah Murah Buduk Mengwi",
@@ -19544,8 +19544,8 @@
                 "formatted_value": "Mengwi"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7180418372154236
+        "predicted_label": "expensive",
+        "predicted_score": 0.8439019918441772
     },
     {
         "title": "Villa ocean view jimbaran",
@@ -19653,8 +19653,8 @@
                 "formatted_value": "jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5641010403633118
+        "predicted_label": "expensive",
+        "predicted_score": 0.8086902499198914
     },
     {
         "title": "Tanah los pantai saba gianyar",
@@ -19693,8 +19693,8 @@
                 "formatted_value": "pantai saba"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6719438433647156
+        "predicted_label": "expensive",
+        "predicted_score": 0.7801342606544495
     },
     {
         "title": "Tanah Batubelig Kerobokan Badung",
@@ -19733,8 +19733,8 @@
                 "formatted_value": "Kerobokan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6602556705474854
+        "predicted_label": "expensive",
+        "predicted_score": 0.7913240194320679
     },
     {
         "title": "Villa berawa canggu badung",
@@ -19833,8 +19833,8 @@
                 "formatted_value": "canggu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5008357763290405
+        "predicted_label": "expensive",
+        "predicted_score": 0.8867776393890381
     },
     {
         "title": "Di jual tanah premium jalan Raya Muding Mundeh, Badung, Bali",
@@ -19874,7 +19874,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.6188269257545471
+        "predicted_score": 0.7367664575576782
     },
     {
         "title": "Tanah los sungai petanu ubud",
@@ -19913,8 +19913,8 @@
                 "formatted_value": "ubud"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.711980402469635
+        "predicted_label": "expensive",
+        "predicted_score": 0.8294739723205566
     },
     {
         "title": "Villa beach front Nusa dua",
@@ -20016,8 +20016,8 @@
                 "formatted_value": "Tanjung benoa"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5130622982978821
+        "predicted_label": "expensive",
+        "predicted_score": 0.8193598985671997
     },
     {
         "title": "Tanah raya uluwatu jimbaran badung bali",
@@ -20056,8 +20056,8 @@
                 "formatted_value": "jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6522631049156189
+        "predicted_label": "expensive",
+        "predicted_score": 0.7955114245414734
     },
     {
         "title": "Tanah petitenget Seminyak",
@@ -20096,8 +20096,8 @@
                 "formatted_value": "Petitenget"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6992305517196655
+        "predicted_label": "expensive",
+        "predicted_score": 0.8097047805786133
     },
     {
         "title": "Tanah bukit lestari jimbaran",
@@ -20136,8 +20136,8 @@
                 "formatted_value": "ungasan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7045018672943115
+        "predicted_label": "expensive",
+        "predicted_score": 0.8334887623786926
     },
     {
         "title": "Villa Ungasan jimbaran",
@@ -20239,8 +20239,8 @@
                 "formatted_value": "Jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5930348038673401
+        "predicted_label": "expensive",
+        "predicted_score": 0.8561506271362305
     },
     {
         "title": "Villa berawa canggu badung",
@@ -20340,7 +20340,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5511329770088196
+        "predicted_score": 0.8760859370231628
     },
     {
         "title": "Tanah buduk mengwi badung",
@@ -20379,8 +20379,8 @@
                 "formatted_value": "buduk"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7176790237426758
+        "predicted_label": "expensive",
+        "predicted_score": 0.8237022757530212
     },
     {
         "title": "Villa full view goa gong ungasan",
@@ -20419,8 +20419,8 @@
                 "formatted_value": "Ungasan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5913381576538086
+        "predicted_label": "expensive",
+        "predicted_score": 0.7941321134567261
     },
     {
         "title": "DIJUAL RUMAH 3 LANTAI LOKASI STRATEGIS DI PEMOGAN",
@@ -20513,8 +20513,8 @@
                 "formatted_value": "Jl. Mekar I No. 21 A Pemogan, Denpasar Selatan Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.689391553401947
+        "predicted_label": "expensive",
+        "predicted_score": 0.5590024590492249
     },
     {
         "title": "Ruko Satu Lantai",
@@ -20598,8 +20598,8 @@
                 "formatted_value": "Jl. Kerta Negara, Denpasar Utara, Denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5955322980880737
+        "predicted_label": "expensive",
+        "predicted_score": 0.8037680387496948
     },
     {
         "title": "Exclusive canggu Guest house ala santorini sering viral di sosmed",
@@ -20676,8 +20676,8 @@
                 "formatted_value": "Jalan pantai berawa, canggu, badung"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7188290357589722
+        "predicted_label": "expensive",
+        "predicted_score": 0.71721351146698
     },
     {
         "title": "SEWAKAN RUKO UKURAN 4X13 M",
@@ -20726,8 +20726,8 @@
                 "formatted_value": "Jl Raya Gunung Salak Utara 108"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.59800124168396
+        "predicted_label": "expensive",
+        "predicted_score": 0.7472721338272095
     },
     {
         "title": "Tanah imam bonjol",
@@ -20766,8 +20766,8 @@
                 "formatted_value": "Imam bonjol"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7322085499763489
+        "predicted_label": "expensive",
+        "predicted_score": 0.7913982272148132
     },
     {
         "title": "Villa Modern Berawa Canggu Badung",
@@ -20869,8 +20869,8 @@
                 "formatted_value": "Canggu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5265911817550659
+        "predicted_label": "expensive",
+        "predicted_score": 0.841339647769928
     },
     {
         "title": "Villa View jimbaran",
@@ -20975,8 +20975,8 @@
                 "formatted_value": "Jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5648366808891296
+        "predicted_label": "expensive",
+        "predicted_score": 0.6486526727676392
     },
     {
         "title": "Tanah Dewi Sri kuta",
@@ -21015,8 +21015,8 @@
                 "formatted_value": "Dewi sri"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7089221477508545
+        "predicted_label": "expensive",
+        "predicted_score": 0.8290348052978516
     },
     {
         "title": "Villa Ocean View Jimbaran",
@@ -21128,7 +21128,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.579963743686676
+        "predicted_score": 0.7376956343650818
     },
     {
         "title": "Tanah view penebel tabanan",
@@ -21167,8 +21167,8 @@
                 "formatted_value": "Penebel"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5380545854568481
+        "predicted_label": "expensive",
+        "predicted_score": 0.839576244354248
     },
     {
         "title": "Tanah camplung tanduk seminyak",
@@ -21207,8 +21207,8 @@
                 "formatted_value": "Seminyak"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.686048686504364
+        "predicted_label": "expensive",
+        "predicted_score": 0.8288833498954773
     },
     {
         "title": "Tanah Kerobokan Badung bali",
@@ -21247,8 +21247,8 @@
                 "formatted_value": "Kerobokan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7008681297302246
+        "predicted_label": "expensive",
+        "predicted_score": 0.7962366342544556
     },
     {
         "title": "Tanah Munduk kedungu Canggu badung",
@@ -21287,8 +21287,8 @@
                 "formatted_value": "Canggu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6991429328918457
+        "predicted_label": "expensive",
+        "predicted_score": 0.8306370973587036
     },
     {
         "title": "Tanah murah gunung Soputan denpasar",
@@ -21327,8 +21327,8 @@
                 "formatted_value": "Gunung soputan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6965513229370117
+        "predicted_label": "expensive",
+        "predicted_score": 0.8095747232437134
     },
     {
         "title": "Tanah Berawa Canggu badung",
@@ -21367,8 +21367,8 @@
                 "formatted_value": "Berawa"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6401014924049377
+        "predicted_label": "expensive",
+        "predicted_score": 0.8413252830505371
     },
     {
         "title": "Rumah Muding Kerobokan Badung bali",
@@ -21462,7 +21462,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5080617070198059
+        "predicted_score": 0.884667158126831
     },
     {
         "title": "Tanah beach front Saba Gianyar",
@@ -21501,8 +21501,8 @@
                 "formatted_value": "Pantai saba"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6900164484977722
+        "predicted_label": "expensive",
+        "predicted_score": 0.7799059152603149
     },
     {
         "title": "Tanah lost pantai pekutatan jembrana",
@@ -21541,8 +21541,8 @@
                 "formatted_value": "Jembrana"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5817587375640869
+        "predicted_label": "expensive",
+        "predicted_score": 0.8196688890457153
     },
     {
         "title": "Tanah Ungasan jimbaran",
@@ -21581,8 +21581,8 @@
                 "formatted_value": "Jimbaran"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7057264447212219
+        "predicted_label": "expensive",
+        "predicted_score": 0.8435810208320618
     },
     {
         "title": "Tanah bonus homestay canggu",
@@ -21682,7 +21682,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5189148187637329
+        "predicted_score": 0.8686046004295349
     },
     {
         "title": "Dijual Rumah di Bali",
@@ -21766,8 +21766,8 @@
                 "formatted_value": "Jl. Taman Jimbaran X , Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6022791862487793
+        "predicted_label": "expensive",
+        "predicted_score": 0.6851249933242798
     },
     {
         "title": "Tanah Strategis 2.200 m2 di Denpasar Selatan",
@@ -21789,8 +21789,8 @@
                 "formatted_value": "2200"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6236879825592041
+        "predicted_label": "expensive",
+        "predicted_score": 0.578296422958374
     },
     {
         "title": "BUC - DIJUAL RUMAH MINIMALIS (Type 55/140 m2)",
@@ -21874,8 +21874,8 @@
                 "formatted_value": "Perum Griya Alam Bernasi No 3, Buduk, Mengwi, Badung"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6103026270866394
+        "predicted_label": "expensive",
+        "predicted_score": 0.8246335983276367
     },
     {
         "title": "Tanah 5 Are di Ubud Lokasi View perkebunan dan lingkungan Villa",
@@ -21897,8 +21897,8 @@
                 "formatted_value": "500"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7594669461250305
+        "predicted_label": "expensive",
+        "predicted_score": 0.5480866432189941
     },
     {
         "title": "Tanah Padang linjong Canggu bali",
@@ -21937,8 +21937,8 @@
                 "formatted_value": "Padang linjong"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7158405184745789
+        "predicted_label": "expensive",
+        "predicted_score": 0.8295156359672546
     },
     {
         "title": "Tanah murah Jimbaran badung",
@@ -21977,8 +21977,8 @@
                 "formatted_value": "Goa gong"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7108156085014343
+        "predicted_label": "expensive",
+        "predicted_score": 0.786890983581543
     },
     {
         "title": "Rumah + toko sunset road Kuta badung",
@@ -22074,8 +22074,8 @@
                 "formatted_value": "Sunset road"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5595479607582092
+        "predicted_label": "expensive",
+        "predicted_score": 0.883711576461792
     },
     {
         "title": "Tanah Canggu badung",
@@ -22114,8 +22114,8 @@
                 "formatted_value": "Berawa"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6899149417877197
+        "predicted_label": "expensive",
+        "predicted_score": 0.8189142346382141
     },
     {
         "title": "Tanah Canggu badung",
@@ -22154,8 +22154,8 @@
                 "formatted_value": "Berawa"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7001441717147827
+        "predicted_label": "expensive",
+        "predicted_score": 0.8158459067344666
     },
     {
         "title": "Tanah danau Beratan Bedugul tabanan",
@@ -22194,8 +22194,8 @@
                 "formatted_value": "Danau beratan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6927853226661682
+        "predicted_label": "expensive",
+        "predicted_score": 0.8117147088050842
     },
     {
         "title": "Villa Canggu badung",
@@ -22295,7 +22295,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5512332916259766
+        "predicted_score": 0.8727191090583801
     },
     {
         "title": "Tanah Tegal Cupek Kerobokan badung",
@@ -22334,8 +22334,8 @@
                 "formatted_value": "Tegal cupek"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6946632266044617
+        "predicted_label": "expensive",
+        "predicted_score": 0.8004708886146545
     },
     {
         "title": "Tanah Tegal Cupek Kerobokan badung",
@@ -22374,8 +22374,8 @@
                 "formatted_value": "Tegal cupek"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6831477284431458
+        "predicted_label": "expensive",
+        "predicted_score": 0.811461865901947
     },
     {
         "title": "Tanah Tegal Cupek Kerobokan badung",
@@ -22414,8 +22414,8 @@
                 "formatted_value": "Tegal cupek"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6823945045471191
+        "predicted_label": "expensive",
+        "predicted_score": 0.8146988749504089
     },
     {
         "title": "Tanah Berawa canggu",
@@ -22454,8 +22454,8 @@
                 "formatted_value": "Canggu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6677449941635132
+        "predicted_label": "expensive",
+        "predicted_score": 0.8333489298820496
     },
     {
         "title": "Tanah Murah Canggu Babakan",
@@ -22494,8 +22494,8 @@
                 "formatted_value": "Canggu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7331629395484924
+        "predicted_label": "expensive",
+        "predicted_score": 0.8327606320381165
     },
     {
         "title": "Tanah Buduk Mengwi",
@@ -22534,8 +22534,8 @@
                 "formatted_value": "Mengwi"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7336296439170837
+        "predicted_label": "expensive",
+        "predicted_score": 0.8290295600891113
     },
     {
         "title": "STRATEGIS Lokasi Gatsu Barat Luas Tanah 1520m2 Gunung Catur",
@@ -22574,8 +22574,8 @@
                 "formatted_value": "Gatsu barat jalan gunung catur utama denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6808654069900513
+        "predicted_label": "expensive",
+        "predicted_score": 0.7277743816375732
     },
     {
         "title": "Murah - Rumah 250m2 Akses 2Mobil Padang Sambian dkt Poltabes",
@@ -22659,8 +22659,8 @@
                 "formatted_value": "Padang sambian padang griya jl. tangkuban perahu denpasar barat"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.525321900844574
+        "predicted_label": "expensive",
+        "predicted_score": 0.7302776575088501
     },
     {
         "title": "DIJUAL RUMAH LANTAI 2 MODERN MINIMALIS LOKASI JALAN MAHENDRADATA",
@@ -22730,8 +22730,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7815967202186584
+        "predicted_label": "expensive",
+        "predicted_score": 0.6482197642326355
     },
     {
         "title": "Disewakan ruko milik pribadi, pinggir jalan sesetan sisa 1 unit",
@@ -22762,8 +22762,8 @@
                 "formatted_value": "Jalan raya sesetan, pinggir jalan utama, jalan raya sesetan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7345207333564758
+        "predicted_label": "expensive",
+        "predicted_score": 0.8301670551300049
     },
     {
         "title": "AMAZING OCEAN AND CITY VIEW LAND FOR SALE IN BALANGAN, BALI",
@@ -22785,8 +22785,8 @@
                 "formatted_value": "6500"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.673963189125061
+        "predicted_label": "expensive",
+        "predicted_score": 0.5362889170646667
     },
     {
         "title": "Rumah nyaman ala studio apartemen",
@@ -22891,8 +22891,8 @@
                 "formatted_value": "Grand Marlboro Estate No 8, Jl. Gunung Talang VI, Padang Sambian Denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6994024515151978
+        "predicted_label": "expensive",
+        "predicted_score": 0.7892646789550781
     },
     {
         "title": "White Guest House Jimbaran",
@@ -22942,8 +22942,8 @@
                 "formatted_value": "Jepun Indah, Jimbaran, Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7800931334495544
+        "predicted_label": "expensive",
+        "predicted_score": 0.7736557126045227
     },
     {
         "title": "Di jual Tanah  Kavling Di Luk Luk Badung",
@@ -22965,8 +22965,8 @@
                 "formatted_value": "100"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5964163541793823
+        "predicted_label": "expensive",
+        "predicted_score": 0.6379940509796143
     },
     {
         "title": "DIJUAL RUMAH LANTAI 1 LOKASI JALAN IMAM BONJOL DENPASAR BALI",
@@ -23030,8 +23030,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7266474962234497
+        "predicted_label": "expensive",
+        "predicted_score": 0.6327043175697327
     },
     {
         "title": "Tanah Kontrak 20Are Untuk SEGALA USAHA di Jln Persada Kerobokan",
@@ -23070,8 +23070,8 @@
                 "formatted_value": "Persada Kerobokan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.631056547164917
+        "predicted_label": "expensive",
+        "predicted_score": 0.7194843888282776
     },
     {
         "title": "STRATEGIS Gatsu 1 Rumah 400M2 Gatsu Tengah dkt Nangka Bedahulu",
@@ -23161,8 +23161,8 @@
                 "formatted_value": "Gatsu 1 denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5282548069953918
+        "predicted_label": "expensive",
+        "predicted_score": 0.880378007888794
     },
     {
         "title": "Tanah link Villa Unblock View Tol Laut Jimbaran Bali",
@@ -23201,8 +23201,8 @@
                 "formatted_value": "Jimbaran Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6814500689506531
+        "predicted_label": "expensive",
+        "predicted_score": 0.8763465881347656
     },
     {
         "title": "Rumah Sewa Denpasar",
@@ -23256,8 +23256,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7129337787628174
+        "predicted_label": "expensive",
+        "predicted_score": 0.5712891221046448
     },
     {
         "title": "Tanah Lingkungan Villa",
@@ -23279,8 +23279,8 @@
                 "formatted_value": "400"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6644240617752075
+        "predicted_label": "expensive",
+        "predicted_score": 0.55223149061203
     },
     {
         "title": "Di jual Tanah Kavling Di area Denpasar Timur",
@@ -23302,8 +23302,8 @@
                 "formatted_value": "100"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6384814381599426
+        "predicted_label": "expensive",
+        "predicted_score": 0.6543474793434143
     },
     {
         "title": "New Villa Kawasan Kayu Tulang Canggu",
@@ -23387,8 +23387,8 @@
                 "formatted_value": "Kayu Tulang Canggu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5908621549606323
+        "predicted_label": "expensive",
+        "predicted_score": 0.8773264288902283
     },
     {
         "title": "Tanah Kecil (Ls 110m\u00b2) Untuk Villa/Investasi",
@@ -23427,8 +23427,8 @@
                 "formatted_value": "Tumbak Bayuh Pererenan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7236517071723938
+        "predicted_label": "expensive",
+        "predicted_score": 0.7191621661186218
     },
     {
         "title": "Dijual Tanah 458m2 Lingk Villa Elit LOST SUNGAI di Pererenan",
@@ -23467,8 +23467,8 @@
                 "formatted_value": "Tumbak Bayuh Pererenan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5959981083869934
+        "predicted_label": "expensive",
+        "predicted_score": 0.7141815423965454
     },
     {
         "title": "Dijual Rumah Minimalis Luas 125m2 di PENATIH",
@@ -23552,8 +23552,8 @@
                 "formatted_value": "Nagasari Penatih Denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6027326583862305
+        "predicted_label": "expensive",
+        "predicted_score": 0.9253749251365662
     },
     {
         "title": "BUC Rumah dijual Hook Dalung Permai",
@@ -23637,8 +23637,8 @@
                 "formatted_value": "Dalung Permai Kuta Utara"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5753718018531799
+        "predicted_label": "expensive",
+        "predicted_score": 0.9313597679138184
     },
     {
         "title": "Semi Villa Luas 250m2 di Padonan",
@@ -23722,8 +23722,8 @@
                 "formatted_value": "Padonan Tibubeneng"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.689293384552002
+        "predicted_label": "expensive",
+        "predicted_score": 0.8271907567977905
     },
     {
         "title": "FOR RENT VILLA VIEW SAWAH LOCATION CEMAGI BEACH BALI",
@@ -23800,7 +23800,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.7954237461090088
+        "predicted_score": 0.5305601358413696
     },
     {
         "title": "Rumah Second dijual di Monang Maning",
@@ -23884,8 +23884,8 @@
                 "formatted_value": "Monang Maning Denpasar Barat"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6475501656532288
+        "predicted_label": "expensive",
+        "predicted_score": 0.9030487537384033
     },
     {
         "title": "Villa Hotel Edelweiss Mangening Cemagi Canggu Hitung Tanah saja Mr Sad",
@@ -23940,8 +23940,8 @@
                 "formatted_value": "jalan pantai mengening cemagi"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6861069798469543
+        "predicted_label": "expensive",
+        "predicted_score": 0.7250202298164368
     },
     {
         "title": "The Umalas 5 stars 15 VIllas Kompleks Mrs Ann",
@@ -24024,7 +24024,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.700876772403717
+        "predicted_score": 0.7710264921188354
     },
     {
         "title": "DIjual Ex Hotel Nikki & Diamond Campus Gatot Subroto Denpasar",
@@ -24082,8 +24082,8 @@
                 "formatted_value": "jl gatot subroto iv / 18"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5984767079353333
+        "predicted_label": "expensive",
+        "predicted_score": 0.8056769371032715
     },
     {
         "title": "Rumah Cluster Elit Tabanan",
@@ -24147,8 +24147,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7962426543235779
+        "predicted_label": "expensive",
+        "predicted_score": 0.6972967982292175
     },
     {
         "title": "Rumah Second Lt 100m\u00b2 di TEGAL BUAH",
@@ -24232,8 +24232,8 @@
                 "formatted_value": "Tegal Buah Padang Sambian Denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5414158701896667
+        "predicted_label": "expensive",
+        "predicted_score": 0.9387273192405701
     },
     {
         "title": "Dijual Rumah 1,5Lantai di GTT Dalung dkt ke Babakan Canggu",
@@ -24317,8 +24317,8 @@
                 "formatted_value": "GTT Dalung"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6046251058578491
+        "predicted_label": "expensive",
+        "predicted_score": 0.8715354204177856
     },
     {
         "title": "Rumah Dijual Luas 85m2 di Muding",
@@ -24402,8 +24402,8 @@
                 "formatted_value": "Muding Kerobokan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6938371062278748
+        "predicted_label": "expensive",
+        "predicted_score": 0.894095778465271
     },
     {
         "title": "Rumah dijual Luas 88m2 di Kebo Iwa Utara",
@@ -24487,8 +24487,8 @@
                 "formatted_value": "Kebo Iwa Utara Denpasar Barat"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6442001461982727
+        "predicted_label": "expensive",
+        "predicted_score": 0.884184718132019
     },
     {
         "title": "Jual Rumah One Gate di Gunung Salak dkt ke Seminyak",
@@ -24572,8 +24572,8 @@
                 "formatted_value": "Gunung Salak Denpasar Barat"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6051197648048401
+        "predicted_label": "expensive",
+        "predicted_score": 0.9400902390480042
     },
     {
         "title": "Rumah VILLA Ls 113m\u00b2 di Nyitdah - Tanah Lot Tabanan",
@@ -24660,8 +24660,8 @@
                 "formatted_value": "Nyitdah Tanah Lota Tabanan Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6070210337638855
+        "predicted_label": "expensive",
+        "predicted_score": 0.8634222149848938
     },
     {
         "title": "NEW VILLA Ls 200m\u00b2 di PURI GADING Jimbaran",
@@ -24751,8 +24751,8 @@
                 "formatted_value": "Puri Gading Jimbaran Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5922307372093201
+        "predicted_label": "expensive",
+        "predicted_score": 0.8381771445274353
     },
     {
         "title": "Jual Murah Ruko Ls 102m\u00b2 Depan Kantor DPRD Sanggulan Tabanan",
@@ -24804,8 +24804,8 @@
                 "formatted_value": "Jln Gatot Subroto Sanggulan Kediri Tabanan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6604974269866943
+        "predicted_label": "expensive",
+        "predicted_score": 0.7076789140701294
     },
     {
         "title": "Kapling tanah 1 are view gwk",
@@ -24844,8 +24844,8 @@
                 "formatted_value": "Kutuh ungasan kuta selatan badung"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6289383769035339
+        "predicted_label": "expensive",
+        "predicted_score": 0.6217950582504272
     },
     {
         "title": "Sisa 1Kapling Ls 250m2 View Sawah NEMPEL dg GREEN LOT MUNGGU",
@@ -24884,8 +24884,8 @@
                 "formatted_value": "Munggu Green Lot Badung"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6774773001670837
+        "predicted_label": "expensive",
+        "predicted_score": 0.6647406220436096
     },
     {
         "title": "Dijual Tanah Ada Bangunan Ls 11,5 Are di Raya Kaba Kaba",
@@ -24924,8 +24924,8 @@
                 "formatted_value": "Kaba Kaba Kediri Tabanan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7017319202423096
+        "predicted_label": "expensive",
+        "predicted_score": 0.6539598107337952
     },
     {
         "title": "Tanah perdangan dan jasa",
@@ -24964,8 +24964,8 @@
                 "formatted_value": "Jln raya uluwatu kuta selatan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6815917491912842
+        "predicted_label": "expensive",
+        "predicted_score": 0.676675021648407
     },
     {
         "title": "MURAH DIJUAL VILLA BARU VIEW SAWAH LOKASI JALAN BANTAN KANGIN CANGGU",
@@ -25035,8 +25035,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7867544293403625
+        "predicted_label": "expensive",
+        "predicted_score": 0.5947449803352356
     },
     {
         "title": "Jual villa lantai 2 di Bantan Kangin tibubeneng Canggu Badung bali",
@@ -25124,7 +25124,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5442912578582764
+        "predicted_score": 0.678365170955658
     },
     {
         "title": "Jual Tanah Premium 10 Are Lokasi Nyaman Sejuk Batur Kintamani",
@@ -25146,8 +25146,8 @@
                 "formatted_value": "1000"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.573682963848114
+        "predicted_label": "expensive",
+        "predicted_score": 0.5888075232505798
     },
     {
         "title": "Jual Cepat Ruko 2 Lantai Lokasi Strategis Ubung Denpasar Utara 2 M",
@@ -25170,8 +25170,8 @@
                 "formatted_value": "115"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6569201350212097
+        "predicted_label": "expensive",
+        "predicted_score": 0.6195608377456665
     },
     {
         "title": "For Sale Villa Modern Tropical 1 Floor in Cluster Dharmawangsa",
@@ -25241,8 +25241,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.8085682988166809
+        "predicted_label": "expensive",
+        "predicted_score": 0.6755521893501282
     },
     {
         "title": "Dikontrakkan toko",
@@ -25291,8 +25291,8 @@
                 "formatted_value": "Jalan raya padonan br.tibubeneng"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7294881939888
+        "predicted_label": "expensive",
+        "predicted_score": 0.7700307369232178
     },
     {
         "title": "Rumah Modern Fas AC Wifi 50 Mbps TV Kulkas Waterheater",
@@ -25389,7 +25389,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5788671970367432
+        "predicted_score": 0.7830569744110107
     },
     {
         "title": "Rumah Murah di kerobokan dekat Umalas",
@@ -25460,8 +25460,8 @@
                 "formatted_value": "Jl Banjar Padang. kerobokan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6605262160301208
+        "predicted_label": "expensive",
+        "predicted_score": 0.6637978553771973
     },
     {
         "title": "Jual rumah lantai 2 di Monang Maning Denpasar Barat Bali",
@@ -25548,8 +25548,8 @@
                 "formatted_value": "Monang Maning Denpasar Barat Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5581625699996948
+        "predicted_label": "expensive",
+        "predicted_score": 0.8619420528411865
     },
     {
         "title": "Sewa Rumah 2 Kamar Min 2 Tahun Uluwatu Jimbaran Bawah Full Furnished",
@@ -25603,8 +25603,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7520554661750793
+        "predicted_label": "expensive",
+        "predicted_score": 0.6377395391464233
     },
     {
         "title": "Tanah Strategis di Puputan Raya, Renon",
@@ -25643,8 +25643,8 @@
                 "formatted_value": "Renon"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6308854818344116
+        "predicted_label": "expensive",
+        "predicted_score": 0.8264879584312439
     },
     {
         "title": "Villa View Sawah di Ubud",
@@ -25731,8 +25731,8 @@
                 "formatted_value": "Kemenuh"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5440739989280701
+        "predicted_label": "expensive",
+        "predicted_score": 0.7821301817893982
     },
     {
         "title": "Villa Murah  Dekat Echo Beach, Canggu",
@@ -25803,8 +25803,8 @@
                 "formatted_value": "Canggu"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.66701340675354
+        "predicted_label": "expensive",
+        "predicted_score": 0.6622800827026367
     },
     {
         "title": "Ruko Murah di Kuta",
@@ -25843,8 +25843,8 @@
                 "formatted_value": "Kuta"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.759218156337738
+        "predicted_label": "expensive",
+        "predicted_score": 0.8310031890869141
     },
     {
         "title": "Tanah Murah, Cocok Untuk Developer di Ubung",
@@ -25883,8 +25883,8 @@
                 "formatted_value": "Jl Sari Dana"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6540102958679199
+        "predicted_label": "expensive",
+        "predicted_score": 0.8157992362976074
     },
     {
         "title": "Villa Low Price at Tegal Cupek, Umalas",
@@ -25968,8 +25968,8 @@
                 "formatted_value": "Tegal Cupek, Umalas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.9292558431625366
+        "predicted_label": "expensive",
+        "predicted_score": 0.8976789116859436
     },
     {
         "title": "Di kontrakan/ sewa rumah lantai 2 di kawasan panjer dkt sidekarya",
@@ -26053,8 +26053,8 @@
                 "formatted_value": "Panjer"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6020756959915161
+        "predicted_label": "expensive",
+        "predicted_score": 0.836067795753479
     },
     {
         "title": "Dijual 1,96 are, Jl. Ayani Utara Gg. Satrya Peguyangan Denpasar",
@@ -26076,8 +26076,8 @@
                 "formatted_value": "196"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6293702721595764
+        "predicted_label": "expensive",
+        "predicted_score": 0.534034013748169
     },
     {
         "title": "Tanah luas 4,25 are Kesiman,dekat Sanur Denpasar timur",
@@ -26116,8 +26116,8 @@
                 "formatted_value": "Kesiman"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6346930265426636
+        "predicted_label": "expensive",
+        "predicted_score": 0.8247084617614746
     },
     {
         "title": "BRAND NEW VILLA SEMI GUEST HOUSE CANGGU BERAWA",
@@ -26190,8 +26190,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7914396524429321
+        "predicted_label": "expensive",
+        "predicted_score": 0.6904681324958801
     },
     {
         "title": "HUNIAN LINGKUNGAN PERUMAHAN CLUSTER MAHENDRADATTA",
@@ -26264,8 +26264,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7701473236083984
+        "predicted_label": "expensive",
+        "predicted_score": 0.6226212978363037
     },
     {
         "title": "TANAH BUANA RAYA LINGKUNGAN PERUMAHAN PERUMAHAN ELIT",
@@ -26288,7 +26288,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.6777572631835938
+        "predicted_score": 0.5113661289215088
     },
     {
         "title": "Villa 2KT3KM Badung MumbulHill Nusadua 100/104 dkt By Pass Ngurah Rai",
@@ -26385,7 +26385,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5433131456375122
+        "predicted_score": 0.6921113133430481
     },
     {
         "title": "HUNIAN WITH POOL MAHENDRADATTA DENPASAR",
@@ -26487,8 +26487,8 @@
                 "formatted_value": "JALAN MAHENDRADATTA DENPASAR BARAT"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5992622375488281
+        "predicted_label": "expensive",
+        "predicted_score": 0.7701517939567566
     },
     {
         "title": "Rumah Lt2 fasilitas carport garasi kitchen set",
@@ -26575,8 +26575,8 @@
                 "formatted_value": "Jl resimuka barat III kav 3 tegal kertha monang maning"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.552998960018158
+        "predicted_label": "expensive",
+        "predicted_score": 0.8298447728157043
     },
     {
         "title": "Pemukiman Area di gunung agung",
@@ -26615,8 +26615,8 @@
                 "formatted_value": "Dijual"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7391331195831299
+        "predicted_label": "expensive",
+        "predicted_score": 0.6870695948600769
     },
     {
         "title": "UMAH SENIMAN UNGASAN",
@@ -26689,8 +26689,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7325335144996643
+        "predicted_label": "expensive",
+        "predicted_score": 0.713546633720398
     },
     {
         "title": "Dijual  villa full furnithure (owner)",
@@ -26807,8 +26807,8 @@
                 "formatted_value": "Padangsambian kelod"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6677329540252686
+        "predicted_label": "expensive",
+        "predicted_score": 0.8239055871963501
     },
     {
         "title": "TANAH DEKAT PANTAI BATU BOLONG CANGGU VIEW SAWAH",
@@ -26847,8 +26847,8 @@
                 "formatted_value": "JALAN PANTAI BATU BOLONG CANGGU KUTA UTARA"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6963087320327759
+        "predicted_label": "expensive",
+        "predicted_score": 0.6828450560569763
     },
     {
         "title": "JUAL TANAH BUANA RAYA LINGKUNGAN PERUMAHAN ONE GATE",
@@ -26887,8 +26887,8 @@
                 "formatted_value": "BUANA MAS INDAH DENPASAR BARAT"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6635681390762329
+        "predicted_label": "expensive",
+        "predicted_score": 0.620169460773468
     },
     {
         "title": "TANAH SEMINYAK KUTA DEKAT PANTAI VIEW SAWAH",
@@ -26927,8 +26927,8 @@
                 "formatted_value": "JALAN CENDRAWASIH SEMINYAK KUTA BALI"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6707804203033447
+        "predicted_label": "expensive",
+        "predicted_score": 0.6742113828659058
     },
     {
         "title": "HUNIAN CLUSTER ELIT MAHENDRADATTA DENPASAR",
@@ -27027,8 +27027,8 @@
                 "formatted_value": "JALAN MAHENDRADATTA DENPASAR BARAT"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6129809021949768
+        "predicted_label": "expensive",
+        "predicted_score": 0.6489179730415344
     },
     {
         "title": "VILLA SEMI GUEST HOUSE CANGGU BERAWA",
@@ -27130,8 +27130,8 @@
                 "formatted_value": "JALAN PANTAI BERAWA CANGGU KUTA UTARA"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6429875493049622
+        "predicted_label": "expensive",
+        "predicted_score": 0.6549324989318848
     },
     {
         "title": "Five Star Hotel Alila in Front of Seminyak Beach - Bali",
@@ -27204,8 +27204,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "expensive",
-        "predicted_score": 0.5751299262046814
+        "predicted_label": "not expensive",
+        "predicted_score": 0.5138795971870422
     },
     {
         "title": "Five Star Hotel Royal in Front of Seminyak Beach - Bali",
@@ -27281,8 +27281,8 @@
                 "formatted_value": "Seminyak - Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7393256425857544
+        "predicted_label": "expensive",
+        "predicted_score": 0.6528369188308716
     },
     {
         "title": "Disewakan rumah di kawasan taman giri nusa dua",
@@ -27359,7 +27359,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.7908613085746765
+        "predicted_score": 0.5704654455184937
     },
     {
         "title": "RUMAH STRATEGIS ONE GATE SYSTEM DI JIMBARAN",
@@ -27464,8 +27464,8 @@
                 "formatted_value": "Bali Arum Jimbaran l 081 338 041 688"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6298962831497192
+        "predicted_label": "expensive",
+        "predicted_score": 0.700803279876709
     },
     {
         "title": "Dijual Rumah 2 lantai di taman giri mumbul nusa dua",
@@ -27542,7 +27542,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.7828845977783203
+        "predicted_score": 0.5310781002044678
     },
     {
         "title": "RUMAH MURAH STRATEGIS KORI NUANSA JIMBARAN",
@@ -27635,8 +27635,8 @@
                 "formatted_value": "Jl Nuansa Timur Jimbaran Bali l 081 338 041 688"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5995480418205261
+        "predicted_label": "expensive",
+        "predicted_score": 0.6181309223175049
     },
     {
         "title": "Ubud bali di jual villa",
@@ -27690,8 +27690,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6002141833305359
+        "predicted_label": "expensive",
+        "predicted_score": 0.5341115593910217
     },
     {
         "title": "TANAH KOMERSIL STRATEGIS DI BY PASS JIMBARAN",
@@ -27730,8 +27730,8 @@
                 "formatted_value": "Jl By Pass Ngurah Rai Jumbaran Bali l 081 338 041 688"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6173911094665527
+        "predicted_label": "expensive",
+        "predicted_score": 0.7357181906700134
     },
     {
         "title": "RUMAH MURAHH!!  STRATEGIS DI TAMAN GRIYA JIMBARAN",
@@ -27825,7 +27825,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.6049379706382751
+        "predicted_score": 0.7147344946861267
     },
     {
         "title": "Tanah kav premium",
@@ -27864,8 +27864,8 @@
                 "formatted_value": "Buduk"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5546295642852783
+        "predicted_label": "expensive",
+        "predicted_score": 0.806368350982666
     },
     {
         "title": "RUMAH CLUSTER DAMARA VILLAGE DI JIMBARAN",
@@ -27979,8 +27979,8 @@
                 "formatted_value": "Damara Village Jimbaran l 081 338 041 688"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6617821455001831
+        "predicted_label": "expensive",
+        "predicted_score": 0.8081855177879333
     },
     {
         "title": "Disewakan ruang kantor",
@@ -28041,8 +28041,8 @@
                 "formatted_value": "Jalan padang mekar no 9x, Padangsambian denpasar barat"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7512616515159607
+        "predicted_label": "expensive",
+        "predicted_score": 0.628542423248291
     },
     {
         "title": "Disewakan toko ditanah lot",
@@ -28091,8 +28091,8 @@
                 "formatted_value": "Objek wisata tanah lot"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7235695123672485
+        "predicted_label": "expensive",
+        "predicted_score": 0.630582869052887
     },
     {
         "title": "Kost 77 Jimbaran",
@@ -28145,8 +28145,8 @@
                 "formatted_value": "poh gading timur no. 77 X"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7343251705169678
+        "predicted_label": "expensive",
+        "predicted_score": 0.8561011552810669
     },
     {
         "title": "Rumah istimewa harga murah di daerah renon Denpasar",
@@ -28217,7 +28217,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5180278420448303
+        "predicted_score": 0.7524923086166382
     },
     {
         "title": "BRAND NEW VILLA FURNISH MODERN STYLE NUSA DUA BENOA",
@@ -28334,8 +28334,8 @@
                 "formatted_value": "Nuas Dua Benoa l 081 338 041 688"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6490647196769714
+        "predicted_label": "expensive",
+        "predicted_score": 0.841340959072113
     },
     {
         "title": "Ungasan villa dijual stail bali.",
@@ -28389,8 +28389,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6342530250549316
+        "predicted_label": "expensive",
+        "predicted_score": 0.535589873790741
     },
     {
         "title": "Tanah bonus rumah pulau adi denpasar",
@@ -28429,8 +28429,8 @@
                 "formatted_value": "Pulau adi"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7075329422950745
+        "predicted_label": "expensive",
+        "predicted_score": 0.8081018328666687
     },
     {
         "title": "Ruko Diponegoro Denpasar",
@@ -28453,8 +28453,8 @@
                 "formatted_value": "250"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7308712601661682
+        "predicted_label": "expensive",
+        "predicted_score": 0.5315608978271484
     },
     {
         "title": "DIJUAL TANAH KOMERSIAL LOKASI PANTAI CEMAGI, BADUNG",
@@ -28476,8 +28476,8 @@
                 "formatted_value": "3500"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6794206500053406
+        "predicted_label": "expensive",
+        "predicted_score": 0.6003103256225586
     },
     {
         "title": "Ungasan dijual villa msh tahap pengerjaan 80%",
@@ -28531,8 +28531,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6690658926963806
+        "predicted_label": "expensive",
+        "predicted_score": 0.5906354784965515
     },
     {
         "title": "Ruko Raya Kuta Bali",
@@ -28556,7 +28556,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.6984549164772034
+        "predicted_score": 0.5220504403114319
     },
     {
         "title": "Dijual Kapling Untuk Villa di Pemaron MUNGGU",
@@ -28595,8 +28595,8 @@
                 "formatted_value": "Munggu Pemaron Badung Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7043033242225647
+        "predicted_label": "expensive",
+        "predicted_score": 0.6374824643135071
     },
     {
         "title": "DIJUAL TANAH JALAN UTAMA, UBUD, GIANYAR",
@@ -28618,8 +28618,8 @@
                 "formatted_value": "1288"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6682267189025879
+        "predicted_label": "expensive",
+        "predicted_score": 0.5846444368362427
     },
     {
         "title": "DIJUAL RUMAH MINIMALIST MURAH DI DENPASAR  BALI",
@@ -28673,8 +28673,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7557142376899719
+        "predicted_label": "expensive",
+        "predicted_score": 0.5972820520401001
     },
     {
         "title": "Goa gong jual villa view abadi",
@@ -28729,7 +28729,7 @@
             }
         ],
         "predicted_label": "not expensive",
-        "predicted_score": 0.598712146282196
+        "predicted_score": 0.5238642692565918
     },
     {
         "title": "DIJUAL VILLA MEWAH LOKASI BERAWA, CANGGU",
@@ -28783,8 +28783,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7608627676963806
+        "predicted_label": "expensive",
+        "predicted_score": 0.6359764337539673
     },
     {
         "title": "Rumah nusa dua dijual",
@@ -28868,8 +28868,8 @@
                 "formatted_value": "Nusa dua"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6207964420318604
+        "predicted_label": "expensive",
+        "predicted_score": 0.7907363772392273
     },
     {
         "title": "7 Are Land for Sale near Bingin Beach Uluwatu",
@@ -28891,8 +28891,8 @@
                 "formatted_value": "700"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5628430843353271
+        "predicted_label": "expensive",
+        "predicted_score": 0.5611929893493652
     },
     {
         "title": "Ruko sangat strategis untuk bisnis",
@@ -28941,8 +28941,8 @@
                 "formatted_value": "ruko sudirman agung. jl PB sudirman, denpasar"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7664515972137451
+        "predicted_label": "expensive",
+        "predicted_score": 0.8156933784484863
     },
     {
         "title": "TANAH DI WANGAYE PENEBEL BALI",
@@ -28964,8 +28964,8 @@
                 "formatted_value": "3000000"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6431468725204468
+        "predicted_label": "expensive",
+        "predicted_score": 0.6231949329376221
     },
     {
         "title": "Dijual villa brand new dengan view laut padang galak sanur",
@@ -29022,8 +29022,8 @@
                 "formatted_value": "0"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.797337532043457
+        "predicted_label": "expensive",
+        "predicted_score": 0.6184473037719727
     },
     {
         "title": "Perumahan kuta family - Kerobokan",
@@ -29099,8 +29099,8 @@
                 "key_name": "Fasilitas"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7911846041679382
+        "predicted_label": "expensive",
+        "predicted_score": 0.6354113817214966
     },
     {
         "title": "Tanah 4,6 ha Melaya Denpasar - Gilimanuk Mr Q",
@@ -29139,8 +29139,8 @@
                 "formatted_value": "jl Denpasar - Gilimanuk, Jembrana"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5528557896614075
+        "predicted_label": "expensive",
+        "predicted_score": 0.6570253372192383
     },
     {
         "title": "kuta family bali seminyak kerobokan",
@@ -29179,8 +29179,8 @@
                 "formatted_value": "Dijual"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7224385142326355
+        "predicted_label": "expensive",
+        "predicted_score": 0.6868105530738831
     },
     {
         "title": "Tanah disewakan",
@@ -29219,8 +29219,8 @@
                 "formatted_value": "Ubud"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6997451782226562
+        "predicted_label": "expensive",
+        "predicted_score": 0.8243075013160706
     },
     {
         "title": "Rumah BTN di jual",
@@ -29304,8 +29304,8 @@
                 "formatted_value": "Subagan wahyu permai karangasem blok G no 5"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6055713891983032
+        "predicted_label": "expensive",
+        "predicted_score": 0.8708556294441223
     },
     {
         "title": "DIKONTRAKKAN RUMAH ONE GATE SYSTEM DI JALAN TUKAD BADUNG RENON",
@@ -29393,7 +29393,7 @@
             }
         ],
         "predicted_label": "expensive",
-        "predicted_score": 0.5571081042289734
+        "predicted_score": 0.8575491309165955
     },
     {
         "title": "Tanah dijual murah di cemagi deket pntai",
@@ -29432,8 +29432,8 @@
                 "formatted_value": "Cemagi"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6837288737297058
+        "predicted_label": "expensive",
+        "predicted_score": 0.7932003140449524
     },
     {
         "title": "Tanah Premium Tumbak Bayuh",
@@ -29455,8 +29455,8 @@
                 "formatted_value": "595"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6164117455482483
+        "predicted_label": "expensive",
+        "predicted_score": 0.561939001083374
     },
     {
         "title": "TANAH DI SANDAN BALI",
@@ -29478,8 +29478,8 @@
                 "formatted_value": "1000000"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5623785853385925
+        "predicted_label": "expensive",
+        "predicted_score": 0.6361638903617859
     },
     {
         "title": "Tanah Premiun di Tumbak Bayuh",
@@ -29501,8 +29501,8 @@
                 "formatted_value": "595"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.726485013961792
+        "predicted_label": "expensive",
+        "predicted_score": 0.6085392236709595
     },
     {
         "title": "Dijual rumah  villa 2lantai di Sekar Sari padanggalak Sanur Bali",
@@ -29575,8 +29575,8 @@
                 "formatted_value": "Sekar Sari padanggalak Sanur Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.5274063348770142
+        "predicted_label": "expensive",
+        "predicted_score": 0.7210123538970947
     },
     {
         "title": "TANAH BALI LOS PANTAI BRABAN  MEGATI",
@@ -29598,8 +29598,8 @@
                 "formatted_value": "25000000"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6240423917770386
+        "predicted_label": "expensive",
+        "predicted_score": 0.576953649520874
     },
     {
         "title": "DIJUAL VILLA MODEREN VIEW DI NUSA DUA JIMBARAN",
@@ -29663,8 +29663,8 @@
                 "formatted_value": "Nusa dua"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.7684832215309143
+        "predicted_label": "expensive",
+        "predicted_score": 0.714087963104248
     },
     {
         "title": "Jual rumah murah,di Bongan Tabanan Bali",
@@ -29748,8 +29748,8 @@
                 "formatted_value": "Bongan"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.689163327217102
+        "predicted_label": "expensive",
+        "predicted_score": 0.7176367044448853
     },
     {
         "title": "Jual tanah 2 are di jalan narakusuma Denpasar",
@@ -29788,8 +29788,8 @@
                 "formatted_value": "200"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6551694273948669
+        "predicted_label": "expensive",
+        "predicted_score": 0.8417140245437622
     },
     {
         "title": "Tanah disewakan mingening",
@@ -29828,8 +29828,8 @@
                 "formatted_value": "Mingening"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.659332275390625
+        "predicted_label": "expensive",
+        "predicted_score": 0.8218454122543335
     },
     {
         "title": "DIJUAL RUMAH UBUNG KAJA DENPASAR UTARA",
@@ -29913,8 +29913,8 @@
                 "formatted_value": "Jl. Subak Pakel II 4, Ubung Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali 80115"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6830086708068848
+        "predicted_label": "expensive",
+        "predicted_score": 0.6237828135490417
     },
     {
         "title": "Villa Modern Di Sanur Betngandang#Tirta Akasa Kutat Lestari Batur Sari",
@@ -30022,8 +30022,8 @@
                 "formatted_value": "Jl. Betngandang Sanur Denpasar Selatan Bali"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.6389467716217041
+        "predicted_label": "expensive",
+        "predicted_score": 0.8188649415969849
     },
     {
         "title": "DIJUAL RUMAH TAMAN MUMBUL NUSA DUA BALI",
@@ -30116,7 +30116,7 @@
                 "formatted_value": "Jl. Taman Kebo Iwa, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361"
             }
         ],
-        "predicted_label": "not expensive",
-        "predicted_score": 0.736346423625946
+        "predicted_label": "expensive",
+        "predicted_score": 0.7134080529212952
     }
 ]
