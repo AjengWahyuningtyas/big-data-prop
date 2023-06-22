@@ -5,6 +5,7 @@ import numpy as np
 import json
 import pandas as pd
 import os
+import joblib
 
 # fungsi untuk conver propertydata.json menjadi dataframe
 def convert_json_to_dataframe(json_file):
@@ -85,3 +86,32 @@ def train_data(X_train, X_test, y_train, y_test):
 
 	# return classifier
 	return clf
+
+# melakukan prediksi data
+def predict_data(clf, X_test, y_test):
+	# lakukan prediksi
+	y_pred = clf.predict(X_test)
+
+	# Evaluasi akurasi dari classifier
+	accuracy = accuracy_score(y_test, y_pred)
+	print("Accuracy:", accuracy)
+
+	# return hasil predict
+	return y_pred
+
+# melakukan evaluasi data
+def evaluate_data(classifier, X_test, y_test):
+	# lakukan prediksi
+	y_pred = classifier.predict(X_test)
+
+	# Evaluasi akurasi dari classifier
+	accuracy = accuracy_score(y_test, y_pred)
+	print("Accuracy:", accuracy)
+
+	# return hasil evaluasi
+	return accuracy
+
+# fungsi untuk export model
+def export_model(classifier, filename):
+	# export model
+	joblib.dump(classifier, filename)
