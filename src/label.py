@@ -1,7 +1,6 @@
 import json
 import csv
 from transformers import pipeline
-from util import open_json 
 
 task = "zero-shot-classification"
 zero_shot_model = "facebook/bart-large-mnli"
@@ -14,6 +13,13 @@ labels = ["expensive", "not expensive"]
 
 # 3: membuat prompt
 prompt_template = "This is the property of title: {title} with proprety_details: {property_details} and it values for about: {price}. If the property have so much property_details and the value is expensive, then the property is classified as \"expensive\". Otherwise, the property is classified as \"not expensive\"." 
+
+# fungsi untuk membuka file json
+def open_json(json_file):
+	with open(json_file) as file:
+		data = json.load(file)
+
+	return data
 
 # 4-6: melakukan klasifikasi property
 def classify_property(title, price, property_details):
